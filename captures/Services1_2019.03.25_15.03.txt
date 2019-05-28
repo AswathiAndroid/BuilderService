@@ -1,0 +1,1718 @@
+ACTIVITY MANAGER PENDING INTENTS (dumpsys activity intents)
+  * PendingIntentRecord{3b500e3c com.android.phone broadcastIntent}
+  * PendingIntentRecord{23d487c5 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{a3a051a android broadcastIntent}
+  * PendingIntentRecord{145e484b android broadcastIntent}
+  * PendingIntentRecord{1b2dd228 com.facebook.mlite broadcastIntent}
+  * PendingIntentRecord{3b7adb41 android startActivity}
+  * PendingIntentRecord{176358e6 com.android.providers.downloads broadcastIntent}
+  * PendingIntentRecord{22471e27 com.emoji.keyboard.touchpal broadcastIntent}
+  * PendingIntentRecord{3ca1e8d4 com.oppo.usbselection startActivity}
+  * PendingIntentRecord{dd8ea7d com.facebook.katana startActivity}
+  * PendingIntentRecord{167c1d72 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{1bfd75c3 com.google.android.googlequicksearchbox startActivity}
+  * PendingIntentRecord{3c9ebe40 com.android.mms broadcastIntent}
+  * PendingIntentRecord{130eb179 android startActivity}
+  * PendingIntentRecord{13ea9ebe com.whatsapp broadcastIntent}
+  * PendingIntentRecord{3c37ab1f com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{12d17e6c com.google.android.googlequicksearchbox startActivity}
+  * PendingIntentRecord{b3fec35 com.facebook.mlite broadcastIntent}
+  * PendingIntentRecord{2a2de8ca com.oppo.alarmclock broadcastIntent}
+  * PendingIntentRecord{8b5da3b com.android.incallui broadcastIntent}
+  * PendingIntentRecord{228e1558 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{1b1016b1 android broadcastIntent}
+  * PendingIntentRecord{2aa9c796 com.google.android.gms startService}
+  * PendingIntentRecord{191ddf17 android broadcastIntent}
+  * PendingIntentRecord{2e7b2f04 com.google.android.keep broadcastIntent}
+  * PendingIntentRecord{33de6ced com.emoji.keyboard.touchpal broadcastIntent}
+  * PendingIntentRecord{732c722 android broadcastIntent}
+  * PendingIntentRecord{39334c69 com.android.providers.downloads broadcastIntent}
+  * PendingIntentRecord{2f9755b3 com.google.android.gms startService}
+  * PendingIntentRecord{1afe3770 com.facebook.katana broadcastIntent}
+  * PendingIntentRecord{3c1eae9 com.google.android.gms startService}
+  * PendingIntentRecord{85a336e com.emoji.keyboard.touchpal broadcastIntent}
+  * PendingIntentRecord{3f279a0f com.facebook.mlite broadcastIntent}
+  * PendingIntentRecord{2b675a9c com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{29454ca5 com.oppo.oppomemoryclear broadcastIntent}
+  * PendingIntentRecord{1c7a187a android broadcastIntent}
+  * PendingIntentRecord{3bcdc82b com.whatsapp startActivity}
+  * PendingIntentRecord{25dd8488 com.facebook.mlite broadcastIntent}
+  * PendingIntentRecord{26e30e21 android broadcastIntent}
+  * PendingIntentRecord{b814246 com.android.mms startActivity}
+  * PendingIntentRecord{105ebc07 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{332e3bfe com.whatsapp startService}
+  * PendingIntentRecord{a0a6134 com.google.android.gms startService}
+  * PendingIntentRecord{12416b5d com.coloros.oppoguardelf startService}
+  * PendingIntentRecord{1b7f3cd2 android broadcastIntent}
+  * PendingIntentRecord{2222b2b7 com.whatsapp broadcastIntent}
+  * PendingIntentRecord{162111a3 com.facebook.katana startActivity}
+  * PendingIntentRecord{6865ca0 com.emoji.keyboard.touchpal broadcastIntent}
+  * PendingIntentRecord{3b2e6059 com.whatsapp broadcastIntent}
+  * PendingIntentRecord{336466b2 com.whatsapp startActivity}
+  * PendingIntentRecord{478ba3c com.whatsapp startActivity}
+  * PendingIntentRecord{31f0541e com.google.android.googlequicksearchbox startService}
+  * PendingIntentRecord{2a2924ff com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{1904a2cc com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{65ba915 com.android.mms startActivity}
+  * PendingIntentRecord{3dc9942a com.whatsapp broadcastIntent}
+  * PendingIntentRecord{3c75121b com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{53f1fb8 com.facebook.katana broadcastIntent}
+  * PendingIntentRecord{37dac191 com.android.mms startActivity}
+  * PendingIntentRecord{3644c8f6 com.google.android.gms startService}
+  * PendingIntentRecord{34c8b4f7 com.google.android.gms startService}
+  * PendingIntentRecord{ea27f64 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{2958e5cd com.android.vending broadcastIntent}
+  * PendingIntentRecord{3a6c7e82 com.google.android.gms startService}
+  * PendingIntentRecord{949a993 com.whatsapp startService}
+  * PendingIntentRecord{20ba2dd0 com.facebook.katana startService}
+  * PendingIntentRecord{281b11c9 com.google.android.gms startService}
+  * PendingIntentRecord{1d6800ce com.whatsapp startService}
+  * PendingIntentRecord{22db4bef com.google.android.youtube broadcastIntent}
+  * PendingIntentRecord{125c56fc com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{36ba0185 com.google.android.gms startService}
+  * PendingIntentRecord{2b875bda com.google.android.gms startService}
+  * PendingIntentRecord{2b3ab80b com.whatsapp broadcastIntent}
+  * PendingIntentRecord{2f95e6e8 com.oppo.weather startService}
+  * PendingIntentRecord{2e9e3101 android broadcastIntent}
+  * PendingIntentRecord{340f5ba6 com.facebook.mlite startActivity}
+  * PendingIntentRecord{20dac9e7 com.whatsapp broadcastIntent}
+  * PendingIntentRecord{36568994 com.google.android.gms startService}
+  * PendingIntentRecord{3d3bdc3d com.facebook.katana broadcastIntent}
+  * PendingIntentRecord{23c58c32 com.google.android.gms startService}
+  * PendingIntentRecord{c801d83 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{31dcab00 android broadcastIntent}
+  * PendingIntentRecord{390eff39 com.facebook.katana startActivity}
+  * PendingIntentRecord{3c3c397e com.google.android.gms startService}
+  * PendingIntentRecord{349d0edf android broadcastIntent}
+  * PendingIntentRecord{20e1772c com.whatsapp startService}
+  * PendingIntentRecord{a5755f5 com.android.providers.calendar broadcastIntent}
+  * PendingIntentRecord{33de6f8a com.oppo.ota broadcastIntent}
+  * PendingIntentRecord{2a6db9fb com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{1284da18 com.coloros.appmanager startService}
+  * PendingIntentRecord{23945c71 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{abbfa56 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{cd3fad7 com.google.android.partnersetup startService}
+  * PendingIntentRecord{25f97fc4 com.android.providers.downloads broadcastIntent}
+  * PendingIntentRecord{5c14ead com.facebook.katana broadcastIntent}
+  * PendingIntentRecord{3967798d com.whatsapp startActivity}
+  * PendingIntentRecord{201565e2 com.google.android.gms startService}
+  * PendingIntentRecord{1cf36d73 com.oppo.usbselection broadcastIntent}
+  * PendingIntentRecord{18f0d430 com.coloros.oppomorningsystem startService}
+  * PendingIntentRecord{c5128a9 com.oppo.wallpaper broadcastIntent}
+  * PendingIntentRecord{14a7fe2e com.whatsapp startActivity}
+  * PendingIntentRecord{8d6dcf com.oppo.launcher broadcastIntent}
+  * PendingIntentRecord{10c7035c com.facebook.katana broadcastIntent}
+  * PendingIntentRecord{3ceaa665 com.google.android.gms startService}
+  * PendingIntentRecord{5b9cf3a com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{e1d17eb android broadcastIntent}
+  * PendingIntentRecord{a6ef948 com.android.providers.downloads broadcastIntent}
+  * PendingIntentRecord{16e443e1 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{2ce5a506 com.facebook.katana broadcastIntent}
+  * PendingIntentRecord{3eb347c7 android broadcastIntent}
+  * PendingIntentRecord{1d1e61f4 com.oppo.usbselection broadcastIntent}
+  * PendingIntentRecord{1e803d1d com.android.phone broadcastIntent}
+  * PendingIntentRecord{30a70b92 android broadcastIntent}
+  * PendingIntentRecord{21929963 com.whatsapp broadcastIntent}
+  * PendingIntentRecord{3bb9a960 android broadcastIntent}
+  * PendingIntentRecord{14b414d4 com.whatsapp startActivity}
+  * PendingIntentRecord{1fe88e19 com.whatsapp startService}
+  * PendingIntentRecord{31a64ede com.google.android.youtube startActivity}
+  * PendingIntentRecord{2d8b68bf com.google.android.googlequicksearchbox startActivity}
+  * PendingIntentRecord{20fffb8c com.oppo.usbselection broadcastIntent}
+  * PendingIntentRecord{25eaf2d5 com.whatsapp startActivity}
+  * PendingIntentRecord{20c47aea android broadcastIntent}
+  * PendingIntentRecord{c17d1db com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{12774478 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{2074e751 com.android.vending startService}
+  * PendingIntentRecord{29e75bb6 com.facebook.mlite startActivity}
+  * PendingIntentRecord{1c727b33 com.android.providers.downloads broadcastIntent}
+  * PendingIntentRecord{3a37b0b7 com.facebook.katana broadcastIntent}
+  * PendingIntentRecord{26183024 com.google.android.gms startService}
+  * PendingIntentRecord{36cfa78d com.facebook.katana broadcastIntent}
+  * PendingIntentRecord{3f857d42 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{1b0ca153 com.google.android.gms startService}
+  * PendingIntentRecord{36ba2a90 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{19c2f89 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{12f22b8e com.android.providers.downloads broadcastIntent}
+  * PendingIntentRecord{1835ffaf com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{333f5fbc com.oppo.filemanager broadcastIntent}
+  * PendingIntentRecord{288f3b45 com.whatsapp startService}
+  * PendingIntentRecord{569729a android broadcastIntent}
+  * PendingIntentRecord{48ddb3a com.android.server.telecom startActivity}
+  * PendingIntentRecord{2bece7cb com.whatsapp broadcastIntent}
+  * PendingIntentRecord{3480bba8 com.android.vending startService}
+  * PendingIntentRecord{1fed46c1 com.google.android.gms startService}
+  * PendingIntentRecord{1ddc1e66 com.facebook.katana broadcastIntent}
+  * PendingIntentRecord{30e035a7 com.google.android.gms startService}
+  * PendingIntentRecord{5f9ea54 com.android.providers.downloads broadcastIntent}
+  * PendingIntentRecord{1c68dfd com.google.android.gms startService}
+  * PendingIntentRecord{f7bbaf2 com.google.android.googlequicksearchbox broadcastIntent}
+  * PendingIntentRecord{13d08543 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{372d19cd com.whatsapp startActivity}
+  * PendingIntentRecord{d3557c0 com.google.android.googlequicksearchbox broadcastIntent}
+  * PendingIntentRecord{3ef30cf9 com.android.incallui startActivity}
+  * PendingIntentRecord{1d06943e com.google.android.gms startService}
+  * PendingIntentRecord{2ec329f com.whatsapp startActivity}
+  * PendingIntentRecord{3bf82fec com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{23ce7fb5 com.google.android.gms startService}
+  * PendingIntentRecord{24d3b64a android broadcastIntent}
+  * PendingIntentRecord{36eb59bb com.android.providers.downloads broadcastIntent}
+  * PendingIntentRecord{392e5ed8 com.facebook.katana startService}
+  * PendingIntentRecord{2cb46231 com.facebook.katana broadcastIntent}
+  * PendingIntentRecord{219eed16 com.facebook.katana broadcastIntent}
+  * PendingIntentRecord{31ebd697 com.oppo.alarmclock broadcastIntent}
+  * PendingIntentRecord{2c969084 com.google.android.apps.photos broadcastIntent}
+  * PendingIntentRecord{263bf06d com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{2c14c4a2 com.whatsapp broadcastIntent}
+  * PendingIntentRecord{100d4533 com.android.keyguard broadcastIntent}
+  * PendingIntentRecord{192e30f0 com.nearme.romupdate broadcastIntent}
+  * PendingIntentRecord{15342669 com.facebook.katana broadcastIntent}
+  * PendingIntentRecord{91e88ee com.google.android.gms startService}
+  * PendingIntentRecord{382e1a0a com.whatsapp startActivity}
+  * PendingIntentRecord{5cd018f com.android.calendar broadcastIntent}
+  * PendingIntentRecord{325d6c1c com.whatsapp broadcastIntent}
+  * PendingIntentRecord{225fc025 com.android.chrome startService}
+  * PendingIntentRecord{10ee45fa com.facebook.mlite startActivity}
+  * PendingIntentRecord{282227ab android broadcastIntent}
+  * PendingIntentRecord{2b4e4aa3 com.whereismytrain.android startActivity}
+  * PendingIntentRecord{17e32e08 com.google.android.googlequicksearchbox startService}
+  * PendingIntentRecord{5f139a1 android broadcastIntent}
+  * PendingIntentRecord{3acac7c6 com.google.android.googlequicksearchbox startActivity}
+  * PendingIntentRecord{2c353e28 com.whatsapp startService}
+  * PendingIntentRecord{1a599387 android startActivity}
+  * PendingIntentRecord{248122b4 com.facebook.katana broadcastIntent}
+  * PendingIntentRecord{2ec6cedd android broadcastIntent}
+  * PendingIntentRecord{199b9a52 com.facebook.mlite startActivity}
+  * PendingIntentRecord{3db1e123 com.whatsapp startService}
+  * PendingIntentRecord{3b67b620 com.oppo.widget.smallweather broadcastIntent}
+  * PendingIntentRecord{1364eedf android broadcastIntent}
+
+ACTIVITY MANAGER BROADCAST STATE (dumpsys activity broadcasts)
+  Historical broadcasts [foreground]:
+  #0: BroadcastRecord{21667bd9 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #1: BroadcastRecord{1535099e u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #2: BroadcastRecord{3eb76c7f u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #3: BroadcastRecord{62144c u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #4: BroadcastRecord{ab9fc95 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #5: BroadcastRecord{2c6421aa u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #6: BroadcastRecord{1c60519b u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #7: BroadcastRecord{26c22938 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #8: BroadcastRecord{28acd11 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #9: BroadcastRecord{bbaae76 u-1 android.intent.action.CLOSE_SYSTEM_DIALOGS}
+    act=android.intent.action.CLOSE_SYSTEM_DIALOGS flg=0x50000010 (has extras)
+    extras: Bundle[{reason=homekey}]
+  #10: BroadcastRecord{4e86c77 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #11: BroadcastRecord{30ca0e4 u-1 android.intent.action.SCREEN_ON}
+    act=android.intent.action.SCREEN_ON flg=0x50000010
+  #12: BroadcastRecord{39be294d u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #13: BroadcastRecord{51b3c02 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #14: BroadcastRecord{246d5913 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #15: BroadcastRecord{b64e750 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #16: BroadcastRecord{10510d49 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #17: BroadcastRecord{3405164e u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #18: BroadcastRecord{14a736f u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #19: BroadcastRecord{32b9287c u-1 android.intent.action.CLOSE_SYSTEM_DIALOGS}
+    act=android.intent.action.CLOSE_SYSTEM_DIALOGS flg=0x50000010 (has extras)
+    extras: Bundle[{reason=lock}]
+  #20: BroadcastRecord{f143505 u-1 android.intent.action.SCREEN_OFF}
+    act=android.intent.action.SCREEN_OFF flg=0x50000010
+  #21: BroadcastRecord{1aa0495a u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #22: BroadcastRecord{234d78b u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #23: BroadcastRecord{aae5068 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #24: BroadcastRecord{1281c81 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #25: BroadcastRecord{389a126 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #26: BroadcastRecord{3a176167 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #27: BroadcastRecord{184c0b14 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #28: BroadcastRecord{2938ffbd u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #29: BroadcastRecord{345ea9b2 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #30: BroadcastRecord{15aead03 u-1 android.intent.action.TIME_SET}
+    act=android.intent.action.TIME_SET flg=0x34000010
+  #31: BroadcastRecord{768c480 u-1 android.intent.action.TIME_SET}
+    act=android.intent.action.TIME_SET flg=0x34000010
+  #32: BroadcastRecord{e7adab9 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #33: BroadcastRecord{6e5165f u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #34: BroadcastRecord{28d5a8ac u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #35: BroadcastRecord{1d656975 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #36: BroadcastRecord{9eeb97b u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #37: BroadcastRecord{274aa398 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #38: BroadcastRecord{183027f1 u-1 android.intent.action.SCREEN_ON}
+    act=android.intent.action.SCREEN_ON flg=0x50000010
+  #39: BroadcastRecord{e129fd6 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #40: BroadcastRecord{20257257 u-1 android.intent.action.CLOSE_SYSTEM_DIALOGS}
+    act=android.intent.action.CLOSE_SYSTEM_DIALOGS flg=0x50000010 (has extras)
+    extras: Bundle[{reason=lock}]
+  #41: BroadcastRecord{1f126144 u-1 android.intent.action.SCREEN_OFF}
+    act=android.intent.action.SCREEN_OFF flg=0x50000010
+  #42: BroadcastRecord{130e522d u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #43: BroadcastRecord{35f0e362 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #44: BroadcastRecord{1ca4dcf3 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #45: BroadcastRecord{4764db0 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #46: BroadcastRecord{382ae429 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #47: BroadcastRecord{1c7dd3ae u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #48: BroadcastRecord{1ea6554f u-1 android.intent.action.SCREEN_ON}
+    act=android.intent.action.SCREEN_ON flg=0x50000010
+  #49: BroadcastRecord{4ea94dc u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  ...
+
+  Historical broadcasts [background]:
+  #0: BroadcastRecord{f6499e5 u-1 com.android.server.action.NETWORK_STATS_UPDATED}
+    act=com.android.server.action.NETWORK_STATS_UPDATED flg=0x40000010
+  #1: BroadcastRecord{20d77cba u-1 android.intent.action.BATTERY_CHANGED}
+    act=android.intent.action.BATTERY_CHANGED flg=0x60000010 (has extras)
+    extras: Bundle[{technology=Li-ion, icon-small=17303145, health=2, status=2, plugged=2, present=true, level=74, scale=100, temperature=398, voltage=4139, invalid_charger=0}]
+  #2: BroadcastRecord{159cf76b u-1 android.intent.action.ADDITIONAL_BATTERY_CHANGED}
+    act=android.intent.action.ADDITIONAL_BATTERY_CHANGED flg=0x60000010 (has extras)
+    extras: Bundle[{batterycurrent=-450, accessorystatus=0, chargervolstatus=3, chargervoltage=4768, accessorycapacity=0, batterytempstatus=2, chargesocfall=false, chargetimeout=false, accessorypresent=false, chargeplugged=2, batteryvolstatus=3, chargefastcharger=false}]
+  #3: BroadcastRecord{efa22c8 u-1 android.intent.action.BATTERY_CHANGED}
+    act=android.intent.action.BATTERY_CHANGED flg=0x60000010 (has extras)
+    extras: Bundle[{technology=Li-ion, icon-small=17303145, health=2, status=2, plugged=2, present=true, level=74, scale=100, temperature=398, voltage=4135, invalid_charger=0}]
+  #4: BroadcastRecord{5c9ef61 u-1 android.intent.action.ADDITIONAL_BATTERY_CHANGED}
+    act=android.intent.action.ADDITIONAL_BATTERY_CHANGED flg=0x60000010 (has extras)
+    extras: Bundle[{batterycurrent=-450, accessorystatus=0, chargervolstatus=3, chargervoltage=4766, accessorycapacity=0, batterytempstatus=2, chargesocfall=false, chargetimeout=false, accessorypresent=false, chargeplugged=2, batteryvolstatus=3, chargefastcharger=false}]
+  #5: BroadcastRecord{3f0aa86 u-1 com.android.server.action.NETWORK_STATS_UPDATED}
+    act=com.android.server.action.NETWORK_STATS_UPDATED flg=0x40000010
+  #6: BroadcastRecord{2b119f47 u0 null}
+    flg=0x14 (has extras)
+    targetComp: {com.google.android.gms/com.google.android.gms.lockbox.LockboxAlarmReceiver}
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #7: BroadcastRecord{2cf2a374 u0 com.whatsapp.MessageHandler.CLIENT_PINGER_ACTION}
+    act=com.whatsapp.MessageHandler.CLIENT_PINGER_ACTION flg=0x14 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #8: BroadcastRecord{30d5209d u-1 android.intent.action.BATTERY_CHANGED}
+    act=android.intent.action.BATTERY_CHANGED flg=0x60000010 (has extras)
+    extras: Bundle[{technology=Li-ion, icon-small=17303145, health=2, status=2, plugged=2, present=true, level=74, scale=100, temperature=398, voltage=4140, invalid_charger=0}]
+  #9: BroadcastRecord{111ce912 u-1 android.intent.action.ADDITIONAL_BATTERY_CHANGED}
+    act=android.intent.action.ADDITIONAL_BATTERY_CHANGED flg=0x60000010 (has extras)
+    extras: Bundle[{batterycurrent=-450, accessorystatus=0, chargervolstatus=3, chargervoltage=4762, accessorycapacity=0, batterytempstatus=2, chargesocfall=false, chargetimeout=false, accessorypresent=false, chargeplugged=2, batteryvolstatus=3, chargefastcharger=false}]
+  #10: BroadcastRecord{2e3ee8e3 u-1 android.intent.action.BATTERY_CHANGED}
+    act=android.intent.action.BATTERY_CHANGED flg=0x60000010 (has extras)
+    extras: Bundle[{technology=Li-ion, icon-small=17303145, health=2, status=2, plugged=2, present=true, level=74, scale=100, temperature=398, voltage=4138, invalid_charger=0}]
+  #11: BroadcastRecord{1e5082e0 u-1 android.intent.action.ADDITIONAL_BATTERY_CHANGED}
+    act=android.intent.action.ADDITIONAL_BATTERY_CHANGED flg=0x60000010 (has extras)
+    extras: Bundle[{batterycurrent=-450, accessorystatus=0, chargervolstatus=3, chargervoltage=4768, accessorycapacity=0, batterytempstatus=2, chargesocfall=false, chargetimeout=false, accessorypresent=false, chargeplugged=2, batteryvolstatus=3, chargefastcharger=false}]
+  #12: BroadcastRecord{9682999 u-1 android.intent.action.BATTERY_CHANGED}
+    act=android.intent.action.BATTERY_CHANGED flg=0x60000010 (has extras)
+    extras: Bundle[{technology=Li-ion, icon-small=17303145, health=2, status=2, plugged=2, present=true, level=74, scale=100, temperature=398, voltage=4141, invalid_charger=0}]
+  #13: BroadcastRecord{35c845e u-1 android.intent.action.ADDITIONAL_BATTERY_CHANGED}
+    act=android.intent.action.ADDITIONAL_BATTERY_CHANGED flg=0x60000010 (has extras)
+    extras: Bundle[{batterycurrent=-450, accessorystatus=0, chargervolstatus=3, chargervoltage=4762, accessorycapacity=0, batterytempstatus=2, chargesocfall=false, chargetimeout=false, accessorypresent=false, chargeplugged=2, batteryvolstatus=3, chargefastcharger=false}]
+  #14: BroadcastRecord{1d6d303f u-1 com.android.server.action.NETWORK_STATS_UPDATED}
+    act=com.android.server.action.NETWORK_STATS_UPDATED flg=0x40000010
+  #15: BroadcastRecord{1beaed0c u-1 android.intent.action.BATTERY_CHANGED}
+    act=android.intent.action.BATTERY_CHANGED flg=0x60000010 (has extras)
+    extras: Bundle[{technology=Li-ion, icon-small=17303145, health=2, status=2, plugged=2, present=true, level=74, scale=100, temperature=400, voltage=4129, invalid_charger=0}]
+  #16: BroadcastRecord{1a88c655 u-1 android.intent.action.ADDITIONAL_BATTERY_CHANGED}
+    act=android.intent.action.ADDITIONAL_BATTERY_CHANGED flg=0x60000010 (has extras)
+    extras: Bundle[{batterycurrent=-450, accessorystatus=0, chargervolstatus=3, chargervoltage=4770, accessorycapacity=0, batterytempstatus=2, chargesocfall=false, chargetimeout=false, accessorypresent=false, chargeplugged=2, batteryvolstatus=3, chargefastcharger=false}]
+  #17: BroadcastRecord{3368886a u-1 android.intent.action.BATTERY_CHANGED}
+    act=android.intent.action.BATTERY_CHANGED flg=0x60000010 (has extras)
+    extras: Bundle[{technology=Li-ion, icon-small=17303145, health=2, status=2, plugged=2, present=true, level=74, scale=100, temperature=400, voltage=4136, invalid_charger=0}]
+  #18: BroadcastRecord{290e915b u-1 android.intent.action.ADDITIONAL_BATTERY_CHANGED}
+    act=android.intent.action.ADDITIONAL_BATTERY_CHANGED flg=0x60000010 (has extras)
+    extras: Bundle[{batterycurrent=-450, accessorystatus=0, chargervolstatus=3, chargervoltage=4758, accessorycapacity=0, batterytempstatus=2, chargesocfall=false, chargetimeout=false, accessorypresent=false, chargeplugged=2, batteryvolstatus=3, chargefastcharger=false}]
+  #19: BroadcastRecord{32dfcdf8 u-1 com.android.server.action.NETWORK_STATS_UPDATED}
+    act=com.android.server.action.NETWORK_STATS_UPDATED flg=0x40000010
+  #20: BroadcastRecord{1fdc72d1 u-1 android.intent.action.BATTERY_CHANGED}
+    act=android.intent.action.BATTERY_CHANGED flg=0x60000010 (has extras)
+    extras: Bundle[{technology=Li-ion, icon-small=17303145, health=2, status=2, plugged=2, present=true, level=74, scale=100, temperature=400, voltage=4138, invalid_charger=0}]
+  #21: BroadcastRecord{1a7ec136 u-1 android.intent.action.ADDITIONAL_BATTERY_CHANGED}
+    act=android.intent.action.ADDITIONAL_BATTERY_CHANGED flg=0x60000010 (has extras)
+    extras: Bundle[{batterycurrent=-450, accessorystatus=0, chargervolstatus=3, chargervoltage=4756, accessorycapacity=0, batterytempstatus=2, chargesocfall=false, chargetimeout=false, accessorypresent=false, chargeplugged=2, batteryvolstatus=3, chargefastcharger=false}]
+  #22: BroadcastRecord{c9ae837 u-1 android.intent.action.BATTERY_CHANGED}
+    act=android.intent.action.BATTERY_CHANGED flg=0x60000010 (has extras)
+    extras: Bundle[{technology=Li-ion, icon-small=17303145, health=2, status=2, plugged=2, present=true, level=74, scale=100, temperature=400, voltage=4135, invalid_charger=0}]
+  #23: BroadcastRecord{223fd1a4 u-1 android.intent.action.ADDITIONAL_BATTERY_CHANGED}
+    act=android.intent.action.ADDITIONAL_BATTERY_CHANGED flg=0x60000010 (has extras)
+    extras: Bundle[{batterycurrent=-450, accessorystatus=0, chargervolstatus=3, chargervoltage=4748, accessorycapacity=0, batterytempstatus=2, chargesocfall=false, chargetimeout=false, accessorypresent=false, chargeplugged=2, batteryvolstatus=3, chargefastcharger=false}]
+  #24: BroadcastRecord{fe46b0d u-1 android.intent.action.BATTERY_CHANGED}
+    act=android.intent.action.BATTERY_CHANGED flg=0x60000010 (has extras)
+    extras: Bundle[{technology=Li-ion, icon-small=17303145, health=2, status=2, plugged=2, present=true, level=74, scale=100, temperature=400, voltage=4137, invalid_charger=0}]
+  #25: BroadcastRecord{35edbac2 u-1 android.intent.action.ADDITIONAL_BATTERY_CHANGED}
+    act=android.intent.action.ADDITIONAL_BATTERY_CHANGED flg=0x60000010 (has extras)
+    extras: Bundle[{batterycurrent=-450, accessorystatus=0, chargervolstatus=3, chargervoltage=4768, accessorycapacity=0, batterytempstatus=2, chargesocfall=false, chargetimeout=false, accessorypresent=false, chargeplugged=2, batteryvolstatus=3, chargefastcharger=false}]
+  #26: BroadcastRecord{192bd0d3 u-1 com.android.server.action.NETWORK_STATS_UPDATED}
+    act=com.android.server.action.NETWORK_STATS_UPDATED flg=0x40000010
+  #27: BroadcastRecord{277a6410 u-1 android.intent.action.BATTERY_CHANGED}
+    act=android.intent.action.BATTERY_CHANGED flg=0x60000010 (has extras)
+    extras: Bundle[{technology=Li-ion, icon-small=17303145, health=2, status=2, plugged=2, present=true, level=74, scale=100, temperature=398, voltage=4134, invalid_charger=0}]
+  #28: BroadcastRecord{df9ab09 u-1 android.intent.action.ADDITIONAL_BATTERY_CHANGED}
+    act=android.intent.action.ADDITIONAL_BATTERY_CHANGED flg=0x60000010 (has extras)
+    extras: Bundle[{batterycurrent=-450, accessorystatus=0, chargervolstatus=3, chargervoltage=4770, accessorycapacity=0, batterytempstatus=2, chargesocfall=false, chargetimeout=false, accessorypresent=false, chargeplugged=2, batteryvolstatus=3, chargefastcharger=false}]
+  #29: BroadcastRecord{1760c10e u-1 android.intent.action.BATTERY_CHANGED}
+    act=android.intent.action.BATTERY_CHANGED flg=0x60000010 (has extras)
+    extras: Bundle[{technology=Li-ion, icon-small=17303145, health=2, status=2, plugged=2, present=true, level=74, scale=100, temperature=400, voltage=4113, invalid_charger=0}]
+  #30: BroadcastRecord{dd8a72f u-1 android.intent.action.ADDITIONAL_BATTERY_CHANGED}
+    act=android.intent.action.ADDITIONAL_BATTERY_CHANGED flg=0x60000010 (has extras)
+    extras: Bundle[{batterycurrent=-450, accessorystatus=0, chargervolstatus=3, chargervoltage=4764, accessorycapacity=0, batterytempstatus=2, chargesocfall=false, chargetimeout=false, accessorypresent=false, chargeplugged=2, batteryvolstatus=3, chargefastcharger=false}]
+  #31: BroadcastRecord{2589b13c u-1 com.android.server.action.NETWORK_STATS_UPDATED}
+    act=com.android.server.action.NETWORK_STATS_UPDATED flg=0x40000010
+  #32: BroadcastRecord{8eec5 u-1 android.intent.action.BATTERY_CHANGED}
+    act=android.intent.action.BATTERY_CHANGED flg=0x60000010 (has extras)
+    extras: Bundle[{technology=Li-ion, icon-small=17303145, health=2, status=2, plugged=2, present=true, level=74, scale=100, temperature=398, voltage=4134, invalid_charger=0}]
+  #33: BroadcastRecord{2debe01a u-1 android.intent.action.ADDITIONAL_BATTERY_CHANGED}
+    act=android.intent.action.ADDITIONAL_BATTERY_CHANGED flg=0x60000010 (has extras)
+    extras: Bundle[{batterycurrent=-450, accessorystatus=0, chargervolstatus=3, chargervoltage=4760, accessorycapacity=0, batterytempstatus=2, chargesocfall=false, chargetimeout=false, accessorypresent=false, chargeplugged=2, batteryvolstatus=3, chargefastcharger=false}]
+  #34: BroadcastRecord{19d2874b u0 android.intent.action.OPPO_ROM_APP_CHANGE}
+    act=android.intent.action.OPPO_ROM_APP_CHANGE flg=0x10 (has extras)
+    extras: Bundle[{next_app_pkgname=com.oppo.launcher, pre_app_pkgname=}]
+  #35: BroadcastRecord{12dea528 u0 android.intent.action.OPPO_ROM_APP_CHANGE}
+    act=android.intent.action.OPPO_ROM_APP_CHANGE flg=0x10 (has extras)
+    extras: Bundle[{next_app_pkgname=com.oppo.launcher, pre_app_pkgname=}]
+  #36: BroadcastRecord{40eb241 u0 com.oppo.intent.action.KEY_LOCK_MODE}
+    act=com.oppo.intent.action.KEY_LOCK_MODE flg=0x10 (has extras)
+    extras: Bundle[{KeyLockMode=0, ProcessName=com.serviceapp.services}]
+  #37: BroadcastRecord{13d7e3e6 u0 android.intent.action.DROPBOX_ENTRY_ADDED}
+    act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras)
+    extras: Bundle[{tag=data_app_crash, time=1553506334056}]
+  #38: BroadcastRecord{24404d27 u-1 android.intent.action.BATTERY_CHANGED}
+    act=android.intent.action.BATTERY_CHANGED flg=0x60000010 (has extras)
+    extras: Bundle[{technology=Li-ion, icon-small=17303145, health=2, status=2, plugged=2, present=true, level=74, scale=100, temperature=398, voltage=4120, invalid_charger=0}]
+  #39: BroadcastRecord{1a0cebd4 u-1 android.intent.action.ADDITIONAL_BATTERY_CHANGED}
+    act=android.intent.action.ADDITIONAL_BATTERY_CHANGED flg=0x60000010 (has extras)
+    extras: Bundle[{batterycurrent=-51, accessorystatus=0, chargervolstatus=3, chargervoltage=4766, accessorycapacity=0, batterytempstatus=2, chargesocfall=false, chargetimeout=false, accessorypresent=false, chargeplugged=2, batteryvolstatus=3, chargefastcharger=false}]
+  #40: BroadcastRecord{153317d u0 null}
+    flg=0x14 (has extras)
+    targetComp: {com.google.android.gms/com.google.android.gms.lockbox.LockboxAlarmReceiver}
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #41: BroadcastRecord{2d2e5872 u0 com.whatsapp.action.UPDATE_NTP}
+    act=com.whatsapp.action.UPDATE_NTP flg=0x14 (has extras)
+    targetComp: {com.whatsapp/com.whatsapp.AlarmBroadcastReceiver}
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=9}]
+  #42: BroadcastRecord{35da94c3 u-1 com.android.server.action.NETWORK_STATS_UPDATED}
+    act=com.android.server.action.NETWORK_STATS_UPDATED flg=0x40000010
+  #43: BroadcastRecord{1936f140 u-1 android.intent.action.BATTERY_CHANGED}
+    act=android.intent.action.BATTERY_CHANGED flg=0x60000010 (has extras)
+    extras: Bundle[{technology=Li-ion, icon-small=17303145, health=2, status=2, plugged=2, present=true, level=74, scale=100, temperature=401, voltage=4064, invalid_charger=0}]
+  #44: BroadcastRecord{11666879 u-1 android.intent.action.ADDITIONAL_BATTERY_CHANGED}
+    act=android.intent.action.ADDITIONAL_BATTERY_CHANGED flg=0x60000010 (has extras)
+    extras: Bundle[{batterycurrent=-51, accessorystatus=0, chargervolstatus=3, chargervoltage=4756, accessorycapacity=0, batterytempstatus=2, chargesocfall=false, chargetimeout=false, accessorypresent=false, chargeplugged=2, batteryvolstatus=3, chargefastcharger=false}]
+  #45: BroadcastRecord{230589be u0 android.intent.action.OPPO_ROM_APP_CHANGE}
+    act=android.intent.action.OPPO_ROM_APP_CHANGE flg=0x10 (has extras)
+    extras: Bundle[{next_app_pkgname=com.serviceapp.services, pre_app_pkgname=com.oppo.launcher}]
+  #46: BroadcastRecord{2047ba1f u0 android.intent.action.OPPO_ROM_APP_CHANGE}
+    act=android.intent.action.OPPO_ROM_APP_CHANGE flg=0x10 (has extras)
+    extras: Bundle[{next_app_pkgname=com.serviceapp.services, pre_app_pkgname=com.oppo.launcher}]
+  #47: BroadcastRecord{2c39e16c u0 com.oppo.intent.action.KEY_LOCK_MODE}
+    act=com.oppo.intent.action.KEY_LOCK_MODE flg=0x10 (has extras)
+    extras: Bundle[{KeyLockMode=0, ProcessName=com.android.vending}]
+  #48: BroadcastRecord{3cdc1335 u-1 android.intent.action.BATTERY_CHANGED}
+    act=android.intent.action.BATTERY_CHANGED flg=0x60000010 (has extras)
+    extras: Bundle[{technology=Li-ion, icon-small=17303145, health=2, status=2, plugged=2, present=true, level=74, scale=100, temperature=398, voltage=4093, invalid_charger=0}]
+  #49: BroadcastRecord{78c83ca u-1 android.intent.action.ADDITIONAL_BATTERY_CHANGED}
+    act=android.intent.action.ADDITIONAL_BATTERY_CHANGED flg=0x60000010 (has extras)
+    extras: Bundle[{batterycurrent=-51, accessorystatus=0, chargervolstatus=3, chargervoltage=4758, accessorycapacity=0, batterytempstatus=2, chargesocfall=false, chargetimeout=false, accessorypresent=false, chargeplugged=2, batteryvolstatus=3, chargefastcharger=false}]
+  ...
+
+  Sticky broadcasts for user -1:
+  * Sticky action android.intent.action.PBM_STATE_READY
+  * Sticky action android.intent.action.SERVICE_STATE
+  * Sticky action android.net.wifi.WIFI_STATE_CHANGED
+  * Sticky action android.net.wifi.p2p.CONNECTION_STATE_CHANGE
+  * Sticky action android.net.conn.TETHER_STATE_CHANGED
+  * Sticky action android.media.ACTION_SCO_AUDIO_STATE_UPDATED
+  * Sticky action android.intent.action.HEADSET_PLUG
+  * Sticky action android.intent.action.NETWORK_SET_TIME
+  * Sticky action android.net.wifi.p2p.THIS_DEVICE_CHANGED
+  * Sticky action android.intent.action.BATTERY_CHANGED
+  * Sticky action android.intent.action.ACTION_DEFAULT_SUBSCRIPTION_CHANGED
+  * Sticky action android.intent.action.NETWORK_SET_TIMEZONE
+  * Sticky action android.net.conn.CONNECTIVITY_CHANGE
+  * Sticky action android.intent.action.ANY_DATA_STATE
+  * Sticky action com.android.server.connectivity.UPSTREAM_IFACE_CHANGED
+  * Sticky action android.provider.Telephony.SPN_STRINGS_UPDATED
+  * Sticky action android.net.nsd.STATE_CHANGED
+  * Sticky action org.codeaurora.intent.action.ACTION_SUBSCRIPTION_SET_UICC_RESULT
+  * Sticky action android.hardware.usb.action.USB_STATE
+  * Sticky action android.intent.action.ADDITIONAL_BATTERY_CHANGED
+  * Sticky action android.net.wifi.RSSI_CHANGED
+  * Sticky action android.net.wifi.STATE_CHANGE
+  * Sticky action android.intent.action.SUBINFO_STATE_CHANGE
+  * Sticky action oppo.intent.action.BATTERY_PLUGGED_CHANGED
+  * Sticky action android.intent.action.SIM_STATE_CHANGED
+  * Sticky action android.intent.action.SIG_STR
+  * Sticky action android.intent.action.ACTION_DEFAULT_DATA_SUBSCRIPTION_CHANGED
+  * Sticky action android.net.wifi.CONNECT_MODE_CHANGE
+  * Sticky action android.media.INTERNAL_RINGER_MODE_CHANGED_ACTION
+  * Sticky action android.net.wifi.supplicant.STATE_CHANGE
+  * Sticky action android.net.wifi.p2p.PERSISTENT_GROUPS_CHANGED
+  * Sticky action android.net.wifi.WIFI_AP_STATE_CHANGED
+  * Sticky action android.net.conn.INET_CONDITION_ACTION
+  * Sticky action android.net.conn.CONNECTIVITY_CHANGE_IMMEDIATE
+  * Sticky action android.media.SCO_AUDIO_STATE_CHANGED
+  * Sticky action android.os.UpdateLock.UPDATE_LOCK_CHANGED
+  * Sticky action android.media.MASTER_MUTE_CHANGED_ACTION
+  * Sticky action wifi_scan_available
+  * Sticky action android.net.wifi.p2p.STATE_CHANGED
+  * Sticky action android.intent.action.HDMI_PLUGGED
+  * Sticky action android.media.RINGER_MODE_CHANGED
+
+  Sticky broadcasts for user 0:
+  * Sticky action com.android.ims.IMS_SERVICE_UP
+  * Sticky action com.oppo.alarmclock.alarmclock.ALARM_START
+  * Sticky action android.intent.action.ALARM_CHANGED
+
+ACTIVITY MANAGER CONTENT PROVIDERS (dumpsys activity providers)
+  Published single-user content providers (by class):
+  * ContentProviderRecord{3f37d93b u0 com.android.providers.telephony/.HbpcdLookupProvider}
+    proc=ProcessRecord{3b96a059 9218:com.android.phone/1001}
+    singleton=true
+    authority=hbpcd_lookup
+  * ContentProviderRecord{2d99a858 u0 com.android.providers.settings/.SettingsProvider}
+    proc=ProcessRecord{267f75c9 906:system/1000}
+    singleton=true
+    authority=settings
+    25 connections, 0 external handles
+      -> 1743:com.oppo.gestureservice/u0a85 s1/1 u0/0 +4d17h22m4s887ms
+      -> 1762:com.coloros.appmanager/1000 s1/1 u0/0 +4d17h22m4s820ms
+      -> 1594:com.google.android.googlequicksearchbox:interactor/u0a23 s1/1 u0/0 +4d17h21m59s573ms
+      -> 1321:com.oppo.screenlock.pictorial/u0a87 s1/1 u0/0 +4d17h21m31s972ms
+      -> 1231:com.nearme.romupdate/1000 s1/1 u0/0 +4d17h19m33s969ms
+      -> 1251:com.oppo.gesture/1000 s1/1 u0/0 +4d17h19m4s605ms
+      -> 6736:com.google.android.gms.persistent/u0a9 s1/1 u0/0 +4d17h18m27s842ms
+      -> 9218:com.android.phone/1001 s1/1 u0/0 +4d17h17m5s669ms
+      -> 13935:com.android.systemui/1000 s1/1 u0/0 +2d0h8m44s741ms
+      -> 10182:com.emoji.keyboard.touchpal/u0a115 s1/1 u0/0 +1d2h2m17s828ms
+      -> 15112:com.oppo.exserviceui/1000 s1/1 u0/0 +22h49m20s693ms
+      -> 32612:android.process.safer/1000 s1/1 u0/0 +19h39m24s485ms
+      -> 30884:com.oppo.weather/u0a92 s1/1 u0/0 +4h0m51s873ms
+      -> 19865:android.process.media/u0a7 s1/1 u0/0 +1h56m7s477ms
+      -> 30385:com.google.android.gms/u0a9 s1/1 u0/0 +21m6s631ms
+      -> 1086:com.android.keyguard/u0a13 s1/1 u0/0 +9m41s739ms
+      -> 1919:com.oppo.launcher/u0a66 s1/1 u0/0 +8m26s276ms
+      -> 2265:com.facebook.katana/u0a133 s1/1 u0/0 +7m18s707ms
+      -> 2677:com.oppo.usbselection/1000 s1/1 u0/0 +6m17s625ms
+      -> 2822:com.android.dialer/u0a6 s1/1 u0/0 +6m8s4ms
+      -> 2784:android.process.TrafficMonitor/1000 s1/1 u0/0 +5m56s304ms
+      -> 3140:com.android.defcontainer/u0a5 s1/1 u0/0 +1m26s312ms
+      -> 3184:android.process.acore/u0a4 s1/1 u0/0 +1m22s107ms
+      -> 3368:android.process.contacts/u0a4 s1/1 u0/0 +1m20s93ms
+      -> 3415:com.whatsapp/u0a164 s1/1 u0/0 +1m12s646ms
+  * ContentProviderRecord{7c7adb1 u0 com.android.providers.telephony/.MmsProvider}
+    proc=ProcessRecord{3b96a059 9218:com.android.phone/1001}
+    singleton=true
+    authority=mms
+  * ContentProviderRecord{2ed71296 u0 com.android.providers.telephony/.MmsSmsProvider}
+    proc=ProcessRecord{3b96a059 9218:com.android.phone/1001}
+    singleton=true
+    authority=mms-sms
+  * ContentProviderRecord{2f40ce17 u0 com.google.android.gms/.chimera.container.SharedModuleProvider}
+    proc=ProcessRecord{176dfba2 30385:com.google.android.gms/u0a9}
+    singleton=true
+    authority=com.google.android.gms.chimera.container.sharedmoduleprovider
+  * ContentProviderRecord{1a2cf204 u0 com.android.providers.telephony/.SmsProvider}
+    proc=ProcessRecord{3b96a059 9218:com.android.phone/1001}
+    singleton=true
+    authority=sms
+
+  Published user 0 content providers (by class):
+  * ContentProviderRecord{9f873ed u0 com.google.android.gsf/.subscribedfeeds.SubscribedFeedsProvider}
+    proc=ProcessRecord{869c222 3480:com.google.process.gapps/u0a9}
+    authority=subscribedfeeds
+  * ContentProviderRecord{167a34b3 u0 com.google.android.gms/.fonts.provider.FontsProvider}
+    proc=ProcessRecord{176dfba2 30385:com.google.android.gms/u0a9}
+    authority=com.google.android.gms.fonts
+  * ContentProviderRecord{3892a70 u0 com.google.android.googlequicksearchbox/com.google.android.apps.gsa.staticplugins.bisto.util.StreamedMessageContentProvider}
+    proc=ProcessRecord{ef561e9 3281:com.google.android.googlequicksearchbox:search/u0a23}
+    authority=com.google.android.apps.gsa.staticplugins.bisto.util.StreamedMessageContentProvider
+  * ContentProviderRecord{585de6e u0 com.google.android.googlequicksearchbox/com.google.android.apps.gsa.staticplugins.opa.audio.OpaAudioProvider}
+    proc=ProcessRecord{ef561e9 3281:com.google.android.googlequicksearchbox:search/u0a23}
+    authority=com.google.android.apps.gsa.staticplugins.opa.audio.OpaAudioProvider
+  * ContentProviderRecord{1ad9690f u0 com.google.android.gms/.trustagent.framework.model.be.ModelContentProvider}
+    proc=ProcessRecord{31f794c0 6736:com.google.android.gms.persistent/u0a9}
+    authority=com.google.android.gms.trustagent.framework.model.be.provider
+  * ContentProviderRecord{3d2e7d9c u0 com.google.android.gsf/.settings.GoogleSettingsProvider}
+    proc=ProcessRecord{869c222 3480:com.google.process.gapps/u0a9}
+    authority=com.google.settings
+  * ContentProviderRecord{39b933a5 u0 com.google.android.googlequicksearchbox/com.google.android.apps.gsa.voiceinteraction.hotword.HotwordAudioProvider}
+    proc=ProcessRecord{2d3ebff2 1594:com.google.android.googlequicksearchbox:interactor/u0a23}
+    authority=com.google.android.apps.gsa.voiceinteraction.hotword.HotwordAudioProvider
+  * ContentProviderRecord{1835737a u0 com.facebook.katana/com.facebook.messaging.database.threads.MessagesDbContentProvider}
+    proc=ProcessRecord{3dd197a5 2265:com.facebook.katana/u0a133}
+    authority=com.facebook.katana.messages
+  * ContentProviderRecord{224d872b u0 com.google.android.googlequicksearchbox/com.google.android.apps.gsa.speech.audio.AudioProvider}
+    proc=ProcessRecord{ef561e9 3281:com.google.android.googlequicksearchbox:search/u0a23}
+    authority=com.google.android.googlequicksearchbox.AudioProvider
+  * ContentProviderRecord{3073d788 u0 com.google.android.gms/.people.service.PeopleGalProvider}
+    proc=ProcessRecord{176dfba2 30385:com.google.android.gms/u0a9}
+    authority=com.google.android.gms.people.gal.provider
+  * ContentProviderRecord{282e6521 u0 com.oppo.alarmclock/.alien.GlobalTimeProviderEX}
+    proc=ProcessRecord{17174d46 2841:com.oppo.alarmclock/u0a41}
+    authority=com.oppo.alarmclock.alien.globaltime
+  * ContentProviderRecord{389b6b07 u0 com.oppo.trafficmonitor/com.oppo.networkcontrol.provider.NetWorkControlProvider}
+    proc=ProcessRecord{332e434 2784:android.process.TrafficMonitor/1000}
+    authority=com.oppo.networkcontrol.provider
+  * ContentProviderRecord{126b325d u0 com.google.android.gms/.subscribedfeeds.GmsSubscribedFeedsProvider}
+    proc=ProcessRecord{176dfba2 30385:com.google.android.gms/u0a9}
+    authority=com.google.android.gms.subscribedfeeds
+  * ContentProviderRecord{11eaf7d2 u0 com.oppo.secure/.PrivacyProtectProvider}
+    proc=ProcessRecord{20803539 32612:android.process.safer/1000}
+    authority=com.android.secure.provider.SecureData
+    3 connections, 0 external handles
+      -> 26874:com.oppo.recents/1000 s0/0 u1/1 +4h32m19s752ms
+      -> 13935:com.android.systemui/1000 s1/1 u0/0 +2h58m50s867ms
+      -> 7793:com.oppo.applock.provider/1000 s0/0 u1/1 +2h58m50s857ms
+  * ContentProviderRecord{36f9b0a3 u0 com.google.android.gms/com.google.android.location.reporting.service.utils.ReportingContentProvider}
+    proc=ProcessRecord{31f794c0 6736:com.google.android.gms.persistent/u0a9}
+    authority=com.google.android.location.reporting
+  * ContentProviderRecord{3d340fa0 u0 com.google.android.apps.photos/.partnercontentprovider.PartnerContentProvider}
+    proc=ProcessRecord{1caae487 3440:com.google.android.apps.photos/u0a101}
+    authority=com.google.android.apps.photos.partnercontentprovider
+  * ContentProviderRecord{21ad9759 u0 com.android.providers.downloads/.DownloadProvider}
+    proc=ProcessRecord{1793f02e 19865:android.process.media/u0a7}
+    authority=downloads
+  * ContentProviderRecord{22dcbf1e u0 com.android.providers.telephony/.TelephonyProvider}
+    proc=ProcessRecord{3b96a059 9218:com.android.phone/1001}
+    authority=telephony
+  * ContentProviderRecord{96cb3ff u0 com.google.android.gms/.fitness.sync.FitnessContentProvider}
+    proc=ProcessRecord{31f794c0 6736:com.google.android.gms.persistent/u0a9}
+    authority=com.google.android.gms.fitness
+  * ContentProviderRecord{185a85cc u0 com.google.android.googlequicksearchbox/com.google.android.apps.gsa.contentprovider.initializer.InteractorInitializer}
+    proc=ProcessRecord{2d3ebff2 1594:com.google.android.googlequicksearchbox:interactor/u0a23}
+    authority=com.google.android.apps.gsa.contentprovider.initializer.InteractorInitializer
+  * ContentProviderRecord{3b175015 u0 com.android.providers.contacts/.CallLogProvider}
+    proc=ProcessRecord{891af2a 3184:android.process.acore/u0a4}
+    authority=call_log
+  * ContentProviderRecord{2de2911b u0 com.nearme.sync/.sms.provider.SMSDBProvider}
+    proc=ProcessRecord{279032b8 3391:com.nearme.sync/u0a74}
+    authority=com.nearme.sync.sms
+  * ContentProviderRecord{3a29d891 u0 com.facebook.katana/com.facebook.contacts.provider.ContactsConnectionsProvider}
+    proc=ProcessRecord{3dd197a5 2265:com.facebook.katana/u0a133}
+    authority=com.facebook.katana.provider.ContactsConnectionsProvider
+  * ContentProviderRecord{14f393f6 u0 com.facebook.katana/com.facebook.secure.fileprovider.SecureFileProvider}
+    proc=ProcessRecord{3dd197a5 2265:com.facebook.katana/u0a133}
+    authority=com.facebook.katana.securefileprovider
+  * ContentProviderRecord{90f23f7 u0 com.google.android.gms/.games.chimera.GamesContentProviderProxy}
+    proc=ProcessRecord{176dfba2 30385:com.google.android.gms/u0a9}
+    authority=com.google.android.gms.games.background
+  * ContentProviderRecord{71c264 u0 com.google.android.gms/com.google.android.location.internal.server.HistorianFileProvider}
+    proc=ProcessRecord{176dfba2 30385:com.google.android.gms/u0a9}
+    authority=com.google.android.location.internal.server.fileprovider
+  * ContentProviderRecord{17026ccd u0 com.facebook.katana/.provider.ConnectionsProvider}
+    proc=ProcessRecord{3dd197a5 2265:com.facebook.katana/u0a133}
+    authority=com.facebook.katana.provider.ConnectionsProvider
+  * ContentProviderRecord{3cbcf982 u0 com.facebook.katana/.provider.KeyValueProvider}
+    proc=ProcessRecord{3dd197a5 2265:com.facebook.katana/u0a133}
+    authority=com.facebook.katana.provider.KeyValueProvider
+  * ContentProviderRecord{2d080893 u0 com.google.android.apps.photos/.contentprovider.impl.MediaContentProvider}
+    proc=ProcessRecord{1caae487 3440:com.google.android.apps.photos/u0a101}
+    authority=com.google.android.apps.photos.contentprovider
+  * ContentProviderRecord{13baa0d0 u0 com.whatsapp/.stickers.WhitelistPackQueryContentProvider}
+    proc=ProcessRecord{28bf3c64 3415:com.whatsapp/u0a164}
+    authority=com.whatsapp.provider.sticker_whitelist_check
+  * ContentProviderRecord{345608c9 u0 com.google.android.googlequicksearchbox/com.google.android.apps.gsa.velvet.util.StateDumpProvider}
+    proc=ProcessRecord{ef561e9 3281:com.google.android.googlequicksearchbox:search/u0a23}
+    authority=com.google.android.velvet.util.statedumpprovider
+  * ContentProviderRecord{13c52bce u0 com.oppo.providers.permissions/.PermissionsProvider}
+    proc=ProcessRecord{20803539 32612:android.process.safer/1000}
+    authority=com.oppo.providers.permissions
+  * ContentProviderRecord{2da09aef u0 com.facebook.katana/com.facebook.device_id.DefaultPhoneIdProvider}
+    proc=ProcessRecord{3dd197a5 2265:com.facebook.katana/u0a133}
+    authority=com.facebook.katana.provider.phoneid
+  * ContentProviderRecord{2070f9fc u0 com.android.phone/.PhoneSearchIndexablesProvider}
+    proc=ProcessRecord{3b96a059 9218:com.android.phone/1001}
+    authority=com.android.phone
+  * ContentProviderRecord{112d6885 u0 com.google.android.gms/.wallet.setupwizard.PaymentsSetupWizardSuggestionStateProvider}
+    proc=ProcessRecord{176dfba2 30385:com.google.android.gms/u0a9}
+    authority=com.google.android.gms.wallet
+  * ContentProviderRecord{20c36da u0 com.oppo.notification.center/.PowerProvider}
+    proc=ProcessRecord{1e85f70b 9009:com.oppo.notification.center/1000}
+    launchingApp=ProcessRecord{1e85f70b 9009:com.oppo.notification.center/1000}
+    authority=com.oppo.notification_center
+    1 connections, 0 external handles
+      -> 13935:com.android.systemui/1000 s0/0 u1/1 +2d0h8m44s213ms
+  * ContentProviderRecord{2dd1b9e8 u0 com.google.android.gms/.wallet.provider.WalletFileProvider}
+    proc=ProcessRecord{176dfba2 30385:com.google.android.gms/u0a9}
+    authority=com.google.android.gms.wallet.fileprovider
+  * ContentProviderRecord{1a610801 u0 com.facebook.katana/com.facebook.contacts.data.FbContactsContentProvider}
+    proc=ProcessRecord{3dd197a5 2265:com.facebook.katana/u0a133}
+    authority=com.facebook.katana.contacts
+  * ContentProviderRecord{3d86e6a6 u0 com.google.android.gms/.phenotype.provider.ConfigurationProvider}
+    proc=ProcessRecord{31f794c0 6736:com.google.android.gms.persistent/u0a9}
+    launchingApp=ProcessRecord{31f794c0 6736:com.google.android.gms.persistent/u0a9}
+    authority=com.google.android.gms.phenotype
+  * ContentProviderRecord{171af8e7 u0 com.google.android.gms/.security.provider.SecurityProvider}
+    proc=ProcessRecord{31f794c0 6736:com.google.android.gms.persistent/u0a9}
+    authority=com.google.android.gms.security.provider
+  * ContentProviderRecord{37fc8c94 u0 com.google.android.gms/.people.service.PeopleContentProvider}
+    proc=ProcessRecord{176dfba2 30385:com.google.android.gms/u0a9}
+    authority=com.google.android.gms.people
+  * ContentProviderRecord{17d5233d u0 com.google.android.apps.photos/.photoeditor.renderedimageprovider.RenderedImageContentProvider}
+    proc=ProcessRecord{1caae487 3440:com.google.android.apps.photos/u0a101}
+    authority=com.google.android.apps.photos.photoeditor.renderedimagecontentprovider
+  * ContentProviderRecord{14aac732 u0 com.google.android.gms/.plus.provider.PlusProvider}
+    proc=ProcessRecord{176dfba2 30385:com.google.android.gms/u0a9}
+    authority=com.google.android.gms.plus;com.google.android.gms.plus.action
+  * ContentProviderRecord{18143c83 u0 com.whatsapp/com.google.firebase.provider.FirebaseInitProvider}
+    proc=ProcessRecord{28bf3c64 3415:com.whatsapp/u0a164}
+    authority=com.whatsapp.firebaseinitprovider
+  * ContentProviderRecord{3b5fde00 u0 com.whatsapp/android.support.v4.content.FileProvider}
+    proc=ProcessRecord{28bf3c64 3415:com.whatsapp/u0a164}
+    authority=com.whatsapp.fileprovider
+  * ContentProviderRecord{3175b639 u0 com.google.android.gms/.icing.proxy.AppsContentProvider}
+    proc=ProcessRecord{176dfba2 30385:com.google.android.gms/u0a9}
+    authority=com.google.android.gms.icing.proxy.apps
+  * ContentProviderRecord{15ba247e u0 com.google.android.googlequicksearchbox/com.google.android.apps.gsa.voiceinteraction.dump.StateDumpProvider}
+    proc=ProcessRecord{2d3ebff2 1594:com.google.android.googlequicksearchbox:interactor/u0a23}
+    authority=com.google.android.apps.gsa.voiceinteraction.dump.StateDumpProvider
+  * ContentProviderRecord{2ed41ddf u0 com.google.android.gms/.thunderbird.config.EmergencyConfigContentProvider}
+    proc=ProcessRecord{176dfba2 30385:com.google.android.gms/u0a9}
+    authority=com.google.android.gms.thunderbird.config
+  * ContentProviderRecord{ae4da2c u0 com.whatsapp/.MediaProvider}
+    proc=ProcessRecord{28bf3c64 3415:com.whatsapp/u0a164}
+    authority=com.whatsapp.provider.media
+  * ContentProviderRecord{7f27cf5 u0 com.google.android.apps.photos/.devicemanagement.contentprovider.FreeUpSpaceContentProvider}
+    proc=ProcessRecord{1caae487 3440:com.google.android.apps.photos/u0a101}
+    authority=com.google.android.apps.photos.freeable_space
+  * ContentProviderRecord{1ed00a8a u0 com.facebook.katana/com.facebook.oxygen.preloads.integration.dogfooding.AppManagerSsoProvider}
+    proc=ProcessRecord{3dd197a5 2265:com.facebook.katana/u0a133}
+    authority=com.facebook.katana.integration.appmanager.sso
+  * ContentProviderRecord{3286b8fb u0 com.google.android.gms/com.google.android.libraries.social.autobackup.AutoBackupProvider}
+    proc=ProcessRecord{176dfba2 30385:com.google.android.gms/u0a9}
+    authority=com.google.android.gms.photos.iu.EsGoogleIuProvider
+  * ContentProviderRecord{1cdb6d18 u0 com.google.android.apps.photos/.photoeditor.cachedfileprovider.impl.CachedFileProvider}
+    proc=ProcessRecord{1caae487 3440:com.google.android.apps.photos/u0a101}
+    authority=com.google.android.apps.photos.photoeditor.cachedfileprovider
+  * ContentProviderRecord{1d3af371 u0 com.google.android.gms/.icing.indexapi.IndexApiContentProvider}
+    proc=ProcessRecord{176dfba2 30385:com.google.android.gms/u0a9}
+    authority=com.google.android.gms.icing.indexapi
+  * ContentProviderRecord{22ac4556 u0 com.facebook.katana/com.facebook.photos.provider.PhotosProvider}
+    proc=ProcessRecord{3dd197a5 2265:com.facebook.katana/u0a133}
+    authority=com.facebook.katana.provider.PhotosProvider
+  * ContentProviderRecord{36fde9d7 u0 com.google.android.googlequicksearchbox/com.google.android.apps.gsa.contentprovider.CommonContentProvider}
+    proc=ProcessRecord{ef561e9 3281:com.google.android.googlequicksearchbox:search/u0a23}
+    authority=com.google.android.googlequicksearchbox.CommonContentProvider
+  * ContentProviderRecord{3aa642c4 u0 com.google.android.gms/.auth.api.credentials.sync.CredentialContentProvider}
+    proc=ProcessRecord{176dfba2 30385:com.google.android.gms/u0a9}
+    authority=com.google.android.gms.auth.api.credentials
+  * ContentProviderRecord{8ba55ad u0 com.android.providers.userdictionary/.UserDictionaryProvider}
+    proc=ProcessRecord{891af2a 3184:android.process.acore/u0a4}
+    authority=user_dictionary
+  * ContentProviderRecord{2e3f60e2 u0 com.google.android.gms/android.support.v4.content.FileProvider}
+    proc=ProcessRecord{176dfba2 30385:com.google.android.gms/u0a9}
+    authority=com.google.android.gms.bugreport.fileprovider
+  * ContentProviderRecord{114d4c73 u0 com.facebook.katana/.provider.FirstPartyUserValuesProvider}
+    proc=ProcessRecord{3dd197a5 2265:com.facebook.katana/u0a133}
+    authority=com.facebook.katana.provider.FirstPartyUserValuesProvider
+  * ContentProviderRecord{3f26c730 u0 com.oppo.launcher/.LauncherProvider}
+    proc=ProcessRecord{115f8276 1919:com.oppo.launcher/u0a66}
+    authority=com.oppo.launcher.settings
+  * ContentProviderRecord{33539fa9 u0 com.google.android.gms/.matchstick.data.AppDataProvider}
+    proc=ProcessRecord{176dfba2 30385:com.google.android.gms/u0a9}
+    authority=com.google.android.gms.matchstick.appdataprovider
+  * ContentProviderRecord{3af6a92e u0 com.google.android.gms/.chromesync.sync.SyncContentProvider}
+    proc=ProcessRecord{176dfba2 30385:com.google.android.gms/u0a9}
+    authority=com.google.android.gms.chromesync
+  * ContentProviderRecord{a263ccf u0 com.facebook.katana/com.facebook.abtest.qe.db.QuickExperimentContentProvider}
+    proc=ProcessRecord{3dd197a5 2265:com.facebook.katana/u0a133}
+    authority=com.facebook.katana.experiments
+  * ContentProviderRecord{fe9265c u0 com.google.android.partnersetup/.RlzProvider}
+    proc=ProcessRecord{171d8d65 3323:com.google.android.partnersetup/u0a12}
+    authority=com.google.android.partnersetup.rlzprovider
+  * ContentProviderRecord{19c82a3a u0 com.facebook.katana/.provider.UserValuesProvider}
+    proc=ProcessRecord{3dd197a5 2265:com.facebook.katana/u0a133}
+    authority=com.facebook.katana.provider.UserValuesProvider
+  * ContentProviderRecord{19f3d6eb u0 com.oppo.launcher/com.android.BadgeProvider}
+    proc=ProcessRecord{115f8276 1919:com.oppo.launcher/u0a66}
+    authority=com.android.badge
+  * ContentProviderRecord{3d104c48 u0 com.google.android.gms/.auth.account.be.legacy.AccountContentProvider}
+    proc=ProcessRecord{31f794c0 6736:com.google.android.gms.persistent/u0a9}
+    authority=com.google.android.gms.auth.accounts
+  * ContentProviderRecord{3ede9ae1 u0 com.facebook.katana/com.facebook.messaging.database.threads.ThreadsDbPropertiesContentProvider}
+    proc=ProcessRecord{3dd197a5 2265:com.facebook.katana/u0a133}
+    authority=com.facebook.katana.threads_properties
+  * ContentProviderRecord{2feb006 u0 com.android.providers.telephony/.WapPushProvider}
+    proc=ProcessRecord{3b96a059 9218:com.android.phone/1001}
+    authority=wappush
+  * ContentProviderRecord{ab6f6c7 u0 com.android.phone/.IccProvider}
+    proc=ProcessRecord{3b96a059 9218:com.android.phone/1001}
+    authority=icc
+  * ContentProviderRecord{3401e4f4 u0 com.google.android.gms/com.google.android.libraries.matchstick.provider.MatchstickFileProvider}
+    proc=ProcessRecord{176dfba2 30385:com.google.android.gms/u0a9}
+    authority=com.google.android.libraries.matchstick.provider.fileprovider
+  * ContentProviderRecord{149041d u0 com.oppo.alarmclock/.globaltime.GlobalTimeProvider}
+    proc=ProcessRecord{17174d46 2841:com.oppo.alarmclock/u0a41}
+    authority=com.oppo.alarmclock.globaltime
+  * ContentProviderRecord{16c5c692 u0 com.google.android.googlequicksearchbox/com.google.android.apps.gsa.staticplugins.publiccontent.GsaPublicContentProvider}
+    proc=ProcessRecord{ef561e9 3281:com.google.android.googlequicksearchbox:search/u0a23}
+    authority=com.google.android.googlequicksearchbox.GsaPublicContentProvider;com.google.android.googlequicksearchbox.ExternalExperimentInfoProvider
+  * ContentProviderRecord{1ba23863 u0 com.android.providers.media/.MediaProvider}
+    proc=ProcessRecord{1793f02e 19865:android.process.media/u0a7}
+    authority=media
+  * ContentProviderRecord{30d25c60 u0 com.google.android.gms/.chimera.container.GmsModuleProvider}
+    proc=ProcessRecord{31f794c0 6736:com.google.android.gms.persistent/u0a9}
+    authority=com.google.android.chimera;com.google.android.gms.chimera
+  * ContentProviderRecord{33f6c519 u0 com.oppo.service.account/.provider.AccountInfoProvider}
+    proc=ProcessRecord{1a75b9de 1708:com.oppo.service.account/u0a117}
+    authority=com.oppo.service.account.tokenprovider
+  * ContentProviderRecord{275f7bf u0 com.google.android.apps.photos/.editor.contentprovider.EditMediaContentProvider}
+    proc=ProcessRecord{1caae487 3440:com.google.android.apps.photos/u0a101}
+    authority=com.google.android.apps.photos.editor.contentprovider
+  * ContentProviderRecord{1a70de8c u0 com.google.android.partnersetup/.RlzAppProvider}
+    proc=ProcessRecord{171d8d65 3323:com.google.android.partnersetup/u0a12}
+    authority=com.google.android.partnersetup.rlzappprovider
+  * ContentProviderRecord{122599d5 u0 com.google.android.gms/.appstate.provider.AppStateContentProvider}
+    proc=ProcessRecord{176dfba2 30385:com.google.android.gms/u0a9}
+    authority=com.google.android.gms.appstate
+  * ContentProviderRecord{3e9f95ea u0 com.google.android.gms/.common.download.provider.DownloadsProvider}
+    proc=ProcessRecord{176dfba2 30385:com.google.android.gms/u0a9}
+    authority=com.google.android.gms.download
+  * ContentProviderRecord{269c50db u0 com.google.android.gms/.auth.account.be.accountstate.CredentialStateContentProvider}
+    proc=ProcessRecord{31f794c0 6736:com.google.android.gms.persistent/u0a9}
+    authority=com.google.android.gms.auth.confirm
+  * ContentProviderRecord{35935778 u0 com.google.android.gms/.icing.proxy.InternalIcingCorporaProvider}
+    proc=ProcessRecord{176dfba2 30385:com.google.android.gms/u0a9}
+    authority=com.google.android.gms.icing.proxy
+  * ContentProviderRecord{1332fe51 u0 com.google.android.gms/.update.OtaSuggestionSummaryProvider}
+    proc=ProcessRecord{176dfba2 30385:com.google.android.gms/u0a9}
+    authority=com.google.android.gms.update.phone
+  * ContentProviderRecord{39d926b6 u0 com.facebook.katana/com.facebook.platform.common.provider.PlatformProviderBase}
+    proc=ProcessRecord{3dd197a5 2265:com.facebook.katana/u0a133}
+    authority=com.facebook.katana.provider.PlatformProvider
+  * ContentProviderRecord{32051fb7 u0 com.nearme.romupdate/.provider.db.RomUpdateContentProvider}
+    proc=ProcessRecord{1a627324 1231:com.nearme.romupdate/1000}
+    launchingApp=ProcessRecord{1a627324 1231:com.nearme.romupdate/1000}
+    authority=com.nearme.romupdate.provider.db
+    7 connections, 0 external handles
+      -> 906:system/1000 s0/0 u1/1 +4d17h22m7s194ms
+      -> 1942:com.coloros.oppoguardelf/1000 s0/0 u1/1 +4d17h22m3s927ms
+      -> 9218:com.android.phone/1001 s0/0 u1/1 +4d17h17m5s537ms
+      -> 6736:com.google.android.gms.persistent/u0a9 s0/0 u1/1 +4d17h6m12s883ms
+      -> 19865:android.process.media/u0a7 s0/0 u1/1 +1h54m56s381ms
+      -> 30385:com.google.android.gms/u0a9 s0/0 u1/1 +21m23s175ms
+      -> 1919:com.oppo.launcher/u0a66 s0/0 u1/1 +8m22s43ms
+  * ContentProviderRecord{2cd82e8d u0 com.google.android.gms/.auth.account.be.accountstate.AccountStateContentProvider}
+    proc=ProcessRecord{31f794c0 6736:com.google.android.gms.persistent/u0a9}
+    authority=com.google.android.gms.auth.accountstate
+  * ContentProviderRecord{448f842 u0 com.google.android.googlequicksearchbox/com.google.android.apps.gsa.contentprovider.initializer.SearchInitializer}
+    proc=ProcessRecord{ef561e9 3281:com.google.android.googlequicksearchbox:search/u0a23}
+    authority=com.google.android.apps.gsa.contentprovider.initializer.SearchInitializer
+  * ContentProviderRecord{13c20053 u0 com.google.android.gms/.car.CarFileProvider}
+    proc=ProcessRecord{176dfba2 30385:com.google.android.gms/u0a9}
+    authority=com.google.android.gms.car.fileprovider
+  * ContentProviderRecord{18e59d90 u0 com.android.providers.telephony/.CbProvider}
+    proc=ProcessRecord{3b96a059 9218:com.android.phone/1001}
+    authority=cb
+  * ContentProviderRecord{3d262689 u0 com.oppo.wifidirect/.share.WifiDirectShareProvider}
+    proc=ProcessRecord{3ff2568e 2624:com.oppo.wifidirect/u0a124}
+    authority=com.oppo.provider.wifidirect.share
+  * ContentProviderRecord{10624eaf u0 com.google.android.gms/com.google.android.location.internal.LocationContentProvider}
+    proc=ProcessRecord{31f794c0 6736:com.google.android.gms.persistent/u0a9}
+    authority=com.google.android.location.internal
+  * ContentProviderRecord{382f02bc u0 com.oppo.recents/.provider.AppLockContentProvider}
+    proc=ProcessRecord{1841a245 7793:com.oppo.applock.provider/1000}
+    launchingApp=ProcessRecord{1841a245 7793:com.oppo.applock.provider/1000}
+    authority=com.android.systemui.applock
+    1 connections, 0 external handles
+      -> 1942:com.coloros.oppoguardelf/1000 s1/1 u0/0 +4d17h14m54s936ms
+  * ContentProviderRecord{19c14d9a u0 com.google.android.gms/.drive.metadata.sync.syncadapter.StubContentProvider}
+    proc=ProcessRecord{176dfba2 30385:com.google.android.gms/u0a9}
+    authority=com.google.android.gms.drive.sync
+  * ContentProviderRecord{3c0f26cb u0 com.google.android.gms/android.arch.lifecycle.ProcessLifecycleOwnerInitializer}
+    proc=ProcessRecord{176dfba2 30385:com.google.android.gms/u0a9}
+    authority=com.google.android.gms.lifecycle-trojan
+  * ContentProviderRecord{3c478ea8 u0 com.google.android.gms/.nearby.sharing.SharingFileProvider}
+    proc=ProcessRecord{176dfba2 30385:com.google.android.gms/u0a9}
+    authority=com.google.android.gms.nearby.sharing.fileprovider
+  * ContentProviderRecord{35df1dc1 u0 com.facebook.katana/com.facebook.selfupdate2.ApkFileProvider}
+    proc=ProcessRecord{3dd197a5 2265:com.facebook.katana/u0a133}
+    authority=com.facebook.katana.apkfileprovider
+  * ContentProviderRecord{2f56a966 u0 com.facebook.katana/.provider.CacheProvider}
+    proc=ProcessRecord{3dd197a5 2265:com.facebook.katana/u0a133}
+    authority=com.facebook.katana.provider.CacheProvider
+  * ContentProviderRecord{3a6764a7 u0 com.android.providers.contacts/.ContactsProvider2}
+    proc=ProcessRecord{891af2a 3184:android.process.acore/u0a4}
+    authority=contacts;com.android.contacts
+  * ContentProviderRecord{1edaed54 u0 com.android.providers.downloads/.DownloadStorageProvider}
+    proc=ProcessRecord{1793f02e 19865:android.process.media/u0a7}
+    authority=com.android.providers.downloads.documents
+  * ContentProviderRecord{3a7ed4fd u0 com.oppo.gesture/.provider.ActionContentProvider}
+    proc=ProcessRecord{593f5f2 1251:com.oppo.gesture/1000}
+    authority=com.oppo.gestureguide
+    1 connections, 0 external handles
+      -> 1762:com.coloros.appmanager/1000 s0/0 u1/1 +4d17h22m4s817ms
+  * ContentProviderRecord{201ba443 u0 com.google.android.gms/.people.profile.AvatarFileProvider}
+    proc=ProcessRecord{176dfba2 30385:com.google.android.gms/u0a9}
+    authority=com.google.android.gms.people.profile.fileprovider
+  * ContentProviderRecord{26a38ac0 u0 com.facebook.katana/.provider.AttributionIdProvider}
+    proc=ProcessRecord{3dd197a5 2265:com.facebook.katana/u0a133}
+    authority=com.facebook.katana.provider.AttributionIdProvider
+  * ContentProviderRecord{1868c3f9 u0 com.google.android.gms/.instantapps.routing.InstantAppsContentProvider}
+    proc=ProcessRecord{31f794c0 6736:com.google.android.gms.persistent/u0a9}
+    authority=com.google.android.gms.instantapps.provider.api
+    1 connections, 0 external handles
+      -> 30385:com.google.android.gms/u0a9 s0/0 u1/1 +21m14s451ms
+  * ContentProviderRecord{1be77f3e u0 com.android.providers.contacts/.VoicemailContentProvider}
+    proc=ProcessRecord{891af2a 3184:android.process.acore/u0a4}
+    authority=com.android.voicemail
+  * ContentProviderRecord{124a419f u0 com.oppo.alarmclock/.alarmclock.AlarmProvider}
+    proc=ProcessRecord{17174d46 2841:com.oppo.alarmclock/u0a41}
+    authority=com.oppo.alarmclock.alarmclock
+  * ContentProviderRecord{99692ec u0 com.google.android.gsf/.gservices.GservicesProvider}
+    proc=ProcessRecord{869c222 3480:com.google.process.gapps/u0a9}
+    launchingApp=ProcessRecord{869c222 3480:com.google.process.gapps/u0a9}
+    authority=com.google.android.gsf.gservices
+  * ContentProviderRecord{468a6b5 u0 com.google.android.syncadapters.contacts/.GalProvider}
+    proc=ProcessRecord{869c222 3480:com.google.process.gapps/u0a9}
+    authority=com.google.contacts.gal.provider
+  * ContentProviderRecord{2858514a u0 com.google.android.googlequicksearchbox/com.google.android.search.core.google.GoogleSuggestionProvider}
+    proc=ProcessRecord{ef561e9 3281:com.google.android.googlequicksearchbox:search/u0a23}
+    authority=com.google.android.googlequicksearchbox.google
+  * ContentProviderRecord{3f9b58bb u0 com.facebook.katana/com.facebook.events.data.EventsProvider}
+    proc=ProcessRecord{3dd197a5 2265:com.facebook.katana/u0a133}
+    authority=com.facebook.katana.provider.EventsProvider
+  * ContentProviderRecord{5cff1d8 u0 com.facebook.katana/android.support.v4.content.FileProvider}
+    proc=ProcessRecord{3dd197a5 2265:com.facebook.katana/u0a133}
+    authority=com.facebook.katana.quicksilver.fileprovider
+  * ContentProviderRecord{3a49f931 u0 com.google.android.gms/.icing.proxy.SmsContentProvider}
+    proc=ProcessRecord{176dfba2 30385:com.google.android.gms/u0a9}
+    authority=com.google.android.gms.icing.proxy.sms
+  * ContentProviderRecord{8523816 u0 com.oppo.ota/.db.OTAProvider}
+    proc=ProcessRecord{f1cc597 3343:com.oppo.ota/u0a78}
+    authority=com.oppo.ota
+  * ContentProviderRecord{1d3e5384 u0 com.android.providers.media/.MediaDocumentsProvider}
+    proc=ProcessRecord{1793f02e 19865:android.process.media/u0a7}
+    authority=com.android.providers.media.documents
+  * ContentProviderRecord{d13f76d u0 com.google.android.gms/.common.stats.net.contentprovider.NetworkUsageContentProvider}
+    proc=ProcessRecord{176dfba2 30385:com.google.android.gms/u0a9}
+    authority=com.google.android.gms.common.stats.net.contentprovider
+  * ContentProviderRecord{3231bfa2 u0 com.google.android.gms/.auth.proximity.multidevice.SettingsContentProvider}
+    proc=ProcessRecord{176dfba2 30385:com.google.android.gms/u0a9}
+    authority=com.google.android.gms.auth.proximity.multidevice.settings.provider
+  * ContentProviderRecord{20de2433 u0 com.google.android.gms/.reminders.provider.RemindersProvider}
+    proc=ProcessRecord{176dfba2 30385:com.google.android.gms/u0a9}
+    authority=com.google.android.gms.reminders
+  * ContentProviderRecord{200f23f0 u0 com.google.android.gms/.thunderbird.settings.ThunderbirdSettingsContentProvider}
+    proc=ProcessRecord{176dfba2 30385:com.google.android.gms/u0a9}
+    authority=com.google.android.gms.thunderbird.settings
+  * ContentProviderRecord{3f059d69 u0 com.oppo.weather/.provider.WeatherProvider}
+    proc=ProcessRecord{38c45e90 30884:com.oppo.weather/u0a92}
+    authority=com.oppo.weather.provider.data
+  * ContentProviderRecord{339033ee u0 com.android.providers.contacts/.debug.DumpFileProvider}
+    proc=ProcessRecord{891af2a 3184:android.process.acore/u0a4}
+    authority=com.android.contacts.dumpfile
+  * ContentProviderRecord{3c4cd08f u0 com.google.android.googlequicksearchbox/android.arch.lifecycle.ProcessLifecycleOwnerInitializer}
+    proc=ProcessRecord{ef561e9 3281:com.google.android.googlequicksearchbox:search/u0a23}
+    authority=com.google.android.googlequicksearchbox.lifecycle-trojan
+  * ContentProviderRecord{31da8f1c u0 com.nearme.sync/.providers.CloudProvider}
+    proc=ProcessRecord{279032b8 3391:com.nearme.sync/u0a74}
+    authority=com.nearme.sync
+  * ContentProviderRecord{1d51a725 u0 com.google.android.apps.photos/.localcreationmedia.contentprovider.LocalCreationContentProvider}
+    proc=ProcessRecord{1caae487 3440:com.google.android.apps.photos/u0a101}
+    authority=com.google.android.apps.photos.localcreationmedia.contentprovider
+  * ContentProviderRecord{84fa0fa u0 com.google.android.apps.photos/.backup.moovrelocate.MoovRelocationContentProvider}
+    proc=ProcessRecord{1caae487 3440:com.google.android.apps.photos/u0a101}
+    authority=com.google.android.apps.photos.moov_contentprovider
+  * ContentProviderRecord{84fe6ab u0 com.whatsapp/.contact.ContactProvider}
+    proc=ProcessRecord{28bf3c64 3415:com.whatsapp/u0a164}
+    authority=com.whatsapp.provider.contact
+  * ContentProviderRecord{358f8108 u0 com.google.android.gms/.matchstick.data.DatabaseProvider}
+    proc=ProcessRecord{176dfba2 30385:com.google.android.gms/u0a9}
+    authority=com.google.android.gms.matchstick.dataprovider
+
+  Granted Uri Permissions:
+  * UID 10048 holds:
+    UriPermission{1b9a90a1 0 @ content://downloads/all_downloads/685}
+    UriPermission{1666d2c6 0 @ content://downloads/all_downloads/686}
+    UriPermission{29244287 0 @ content://downloads/all_downloads/687}
+    UriPermission{c1fa5b4 0 @ content://downloads/all_downloads/688}
+
+ACTIVITY MANAGER SERVICES (dumpsys activity services)
+  User 0 active services:
+  * ServiceRecord{2b2e95dd u0 com.android.bluetooth/.hid.HidService}
+    app=null
+    created=-4d17h22m5s860ms started=false connections=1
+    Connections:
+      act=android.bluetooth.IBluetoothInputDevice -> 13935:com.android.systemui/1000
+  * ServiceRecord{17fc9544 u0 com.oppo.wifidirect/.WifiP2pConnectService}
+    app=ProcessRecord{3ff2568e 2624:com.oppo.wifidirect/u0a124}
+    created=-4d17h22m6s410ms started=true connections=0
+  * ServiceRecord{34d2523f u0 com.oppo.exserviceui/.OppoThreePointersShotService}
+    app=ProcessRecord{1a6d5552 15112:com.oppo.exserviceui/1000}
+    created=-4d17h22m3s823ms started=true connections=0
+  * ServiceRecord{1ff88023 u0 com.google.android.music/.dial.DialMediaRouteProviderService}
+    app=null
+    created=-19h51m13s662ms started=false connections=0
+  * ServiceRecord{39160de6 u0 com.qualcomm.location/com.qualcomm.lib.location.osagent.OsAgent}
+    app=ProcessRecord{267f75c9 906:system/1000}
+    created=-4d17h22m3s715ms started=true connections=0
+  * ServiceRecord{38dbe2f9 u0 org.codeaurora.ims/.ImsService}
+    app=ProcessRecord{3b96a059 9218:com.android.phone/1001}
+    created=-4d17h17m4s411ms started=true connections=0
+  * ServiceRecord{1006919b u0 com.oppo.newsimdetect/.NewSimDetectService}
+    app=ProcessRecord{11eb6920 3164:com.oppo.newsimdetect/1000}
+    created=-4d17h22m0s857ms started=true connections=0
+  * ServiceRecord{20234441 u0 com.qualcomm.location/.LocationService}
+    app=ProcessRecord{267f75c9 906:system/1000}
+    created=-4d17h22m3s719ms started=true connections=0
+  * ServiceRecord{3e1d149c u0 com.oppo.alarmclock/.Timer.TimerService}
+    app=ProcessRecord{17174d46 2841:com.oppo.alarmclock/u0a41}
+    created=-6m7s561ms started=true connections=0
+  * ServiceRecord{2f21ed02 u0 com.facebook.katana/com.facebook.mqttlite.MqttService}
+    app=ProcessRecord{3dd197a5 2265:com.facebook.katana/u0a133}
+    created=-4d17h21m42s411ms started=true connections=1
+    Connections:
+       -> 2265:com.facebook.katana/u0a133
+  * ServiceRecord{cdcb3d6 u0 com.android.systemui/.otg.OTGNotificationService}
+    app=ProcessRecord{312e251 13935:com.android.systemui/1000}
+    created=-4d17h22m6s506ms started=true connections=0
+  * ServiceRecord{10d7cc6a u0 com.emoji.keyboard.touchpal/com.cootek.smartinput5.engine.SettingsService}
+    app=ProcessRecord{372de43f 10182:com.emoji.keyboard.touchpal/u0a115}
+    created=-1d2h2m14s836ms started=false connections=1
+    Connections:
+       -> 10182:com.emoji.keyboard.touchpal/u0a115
+       -> 10182:com.emoji.keyboard.touchpal/u0a115
+  * ServiceRecord{278777bd u0 com.google.android.gms/.deviceconnection.service.DeviceConnectionWatcherService}
+    app=ProcessRecord{31f794c0 6736:com.google.android.gms.persistent/u0a9}
+    created=-4d17h20m21s381ms started=true connections=0
+  * ServiceRecord{1af58427 u0 com.oppo.secure/.PermissionProtectService}
+    app=ProcessRecord{20803539 32612:android.process.safer/1000}
+    created=-19h39m27s942ms started=true connections=0
+  * ServiceRecord{23674a93 u0 com.google.android.gms/.measurement.service.MeasurementBrokerService}
+    app=ProcessRecord{176dfba2 30385:com.google.android.gms/u0a9}
+    created=-1m15s658ms started=false connections=1
+    Connections:
+      act=com.google.android.gms.measurement.START pkg=com.google.android.gms -> 3415:com.whatsapp/u0a164
+  * ServiceRecord{3b156843 u0 com.emoji.keyboard.touchpal/com.cootek.smartinput5.TouchPalIME}
+    app=ProcessRecord{372de43f 10182:com.emoji.keyboard.touchpal/u0a115}
+    created=-4d17h22m5s936ms started=false connections=1
+    Connections:
+      act=android.view.InputMethod -> 906:system/1000
+  * ServiceRecord{382b9c84 u0 com.coloros.oppoguardelf/.CheckSensorService}
+    app=ProcessRecord{a03b2d9 1942:com.coloros.oppoguardelf/1000}
+    created=-4d15h31m15s122ms started=true connections=0
+  * ServiceRecord{c613392 u0 com.whatsapp/.messaging.MessageService}
+    app=ProcessRecord{28bf3c64 3415:com.whatsapp/u0a164}
+    created=-20m17s494ms started=true connections=0
+  * ServiceRecord{3c90fcfb u0 com.android.systemui/.ImageWallpaper}
+    app=ProcessRecord{312e251 13935:com.android.systemui/1000}
+    created=-4d17h22m5s962ms started=false connections=1
+    Connections:
+      act=android.service.wallpaper.WallpaperService -> 906:system/1000
+  * ServiceRecord{1076edef u0 com.coloros.appmanager/.ColorAppManagerService}
+    app=ProcessRecord{169a71b5 1762:com.coloros.appmanager/1000}
+    created=-4d17h22m4s893ms started=true connections=0
+  * ServiceRecord{2291a2e4 u0 com.google.android.gms/com.google.android.location.geocode.GeocodeService}
+    app=ProcessRecord{31f794c0 6736:com.google.android.gms.persistent/u0a9}
+    created=-4d17h17m49s521ms started=false connections=1
+    Connections:
+      act=com.android.location.service.GeocodeProvider pkg=com.google.android.gms -> 906:system/1000
+  * ServiceRecord{259f885e u0 com.emoji.keyboard.touchpal/com.cootek.presentation.service.PresentationService}
+    app=ProcessRecord{372de43f 10182:com.emoji.keyboard.touchpal/u0a115}
+    created=-1d2h2m15s47ms started=true connections=1
+    Connections:
+       -> 10182:com.emoji.keyboard.touchpal/u0a115
+       -> 10182:com.emoji.keyboard.touchpal/u0a115
+       -> 10182:com.emoji.keyboard.touchpal/u0a115
+       -> 10182:com.emoji.keyboard.touchpal/u0a115
+       -> 10182:com.emoji.keyboard.touchpal/u0a115
+       -> 10182:com.emoji.keyboard.touchpal/u0a115
+       -> 10182:com.emoji.keyboard.touchpal/u0a115
+       -> 10182:com.emoji.keyboard.touchpal/u0a115
+       -> 10182:com.emoji.keyboard.touchpal/u0a115
+       -> 10182:com.emoji.keyboard.touchpal/u0a115
+       -> 10182:com.emoji.keyboard.touchpal/u0a115
+       -> 10182:com.emoji.keyboard.touchpal/u0a115
+       -> 10182:com.emoji.keyboard.touchpal/u0a115
+       -> 10182:com.emoji.keyboard.touchpal/u0a115
+       -> 10182:com.emoji.keyboard.touchpal/u0a115
+       -> 10182:com.emoji.keyboard.touchpal/u0a115
+       -> 10182:com.emoji.keyboard.touchpal/u0a115
+       -> 10182:com.emoji.keyboard.touchpal/u0a115
+       -> 10182:com.emoji.keyboard.touchpal/u0a115
+       -> 10182:com.emoji.keyboard.touchpal/u0a115
+       -> 10182:com.emoji.keyboard.touchpal/u0a115
+       -> 10182:com.emoji.keyboard.touchpal/u0a115
+       -> 10182:com.emoji.keyboard.touchpal/u0a115
+       -> 10182:com.emoji.keyboard.touchpal/u0a115
+       -> 10182:com.emoji.keyboard.touchpal/u0a115
+       -> 10182:com.emoji.keyboard.touchpal/u0a115
+       -> 10182:com.emoji.keyboard.touchpal/u0a115
+       -> 10182:com.emoji.keyboard.touchpal/u0a115
+       -> 10182:com.emoji.keyboard.touchpal/u0a115
+       -> 10182:com.emoji.keyboard.touchpal/u0a115
+       -> 10182:com.emoji.keyboard.touchpal/u0a115
+       -> 10182:com.emoji.keyboard.touchpal/u0a115
+       -> 10182:com.emoji.keyboard.touchpal/u0a115
+       -> 10182:com.emoji.keyboard.touchpal/u0a115
+       -> 10182:com.emoji.keyboard.touchpal/u0a115
+       -> 10182:com.emoji.keyboard.touchpal/u0a115
+       -> 10182:com.emoji.keyboard.touchpal/u0a115
+       -> 10182:com.emoji.keyboard.touchpal/u0a115
+       -> 10182:com.emoji.keyboard.touchpal/u0a115
+       -> 10182:com.emoji.keyboard.touchpal/u0a115
+       -> 10182:com.emoji.keyboard.touchpal/u0a115
+       -> 10182:com.emoji.keyboard.touchpal/u0a115
+       -> 10182:com.emoji.keyboard.touchpal/u0a115
+       -> 10182:com.emoji.keyboard.touchpal/u0a115
+       -> 10182:com.emoji.keyboard.touchpal/u0a115
+       -> 10182:com.emoji.keyboard.touchpal/u0a115
+       -> 10182:com.emoji.keyboard.touchpal/u0a115
+       -> 10182:com.emoji.keyboard.touchpal/u0a115
+       -> 10182:com.emoji.keyboard.touchpal/u0a115
+       -> 10182:com.emoji.keyboard.touchpal/u0a115
+       -> 10182:com.emoji.keyboard.touchpal/u0a115
+       -> 10182:com.emoji.keyboard.touchpal/u0a115
+       -> 10182:com.emoji.keyboard.touchpal/u0a115
+       -> 10182:com.emoji.keyboard.touchpal/u0a115
+       -> 10182:com.emoji.keyboard.touchpal/u0a115
+  * ServiceRecord{1db42789 u0 com.google.android.gms/.auth.setup.devicesignals.LockScreenService}
+    app=ProcessRecord{31f794c0 6736:com.google.android.gms.persistent/u0a9}
+    created=-4d17h20m26s25ms started=true connections=0
+  * ServiceRecord{14f956cf u0 com.google.android.gms/.gcm.GcmService}
+    app=ProcessRecord{31f794c0 6736:com.google.android.gms.persistent/u0a9}
+    created=-4d17h20m53s363ms started=true connections=0
+  * ServiceRecord{37a3f8e4 u0 com.google.android.gms/.clearcut.debug.ClearcutDebugDumpService}
+    app=ProcessRecord{31f794c0 6736:com.google.android.gms.persistent/u0a9}
+    created=-4d17h20m22s240ms started=true connections=0
+  * ServiceRecord{3fc8c8ae u0 com.google.android.gms/.chimera.PersistentApiService}
+    app=ProcessRecord{31f794c0 6736:com.google.android.gms.persistent/u0a9}
+    created=-3d17h19m31s581ms started=false connections=3
+    Connections:
+      act=com.google.android.gms.udc.service.START -> 6736:com.google.android.gms.persistent/u0a9
+      act=com.google.android.gms.phenotype.service.START -> 6736:com.google.android.gms.persistent/u0a9
+      act=com.google.android.contextmanager.service.ContextManagerService.START -> 6736:com.google.android.gms.persistent/u0a9
+  * ServiceRecord{32e00380 u0 com.dsi.ant.server/.AntService}
+    app=ProcessRecord{267f75c9 906:system/1000}
+    created=-4d17h21m19s841ms started=true connections=0
+  * ServiceRecord{320ab9ac u0 com.oppo.screenlock.pictorial/com.pictorial.handler.aidl.PictorialManagerService}
+    app=ProcessRecord{220c4fe 1321:com.oppo.screenlock.pictorial/u0a87}
+    created=-9m41s670ms started=false connections=1
+    Connections:
+      act=com.oppo.pictorial.service pkg=com.oppo.screenlock.pictorial -> 1086:com.android.keyguard/u0a13
+  * ServiceRecord{364a1dc6 u0 com.google.android.gms/.chimera.PersistentBoundBrokerService}
+    app=ProcessRecord{31f794c0 6736:com.google.android.gms.persistent/u0a9}
+    created=-4d17h21m46s760ms started=false connections=9
+    Connections:
+      act=com.google.android.gms.location.places.PlaceDetectionApi -> 6736:com.google.android.gms.persistent/u0a9
+      act=com.google.android.gms.trustlet.onbody.service.BIND pkg=com.google.android.gms -> 6736:com.google.android.gms.persistent/u0a9
+      act=com.google.android.gms.trustlet.voiceunlock.service.BIND pkg=com.google.android.gms -> 6736:com.google.android.gms.persistent/u0a9
+      act=com.google.android.gms.trustlet.nfc.service.BIND pkg=com.google.android.gms -> 6736:com.google.android.gms.persistent/u0a9
+      act=com.google.android.gms.trustlet.connectionlessble.service.BIND pkg=com.google.android.gms -> 6736:com.google.android.gms.persistent/u0a9
+      act=com.google.android.gms.location.places.GeoDataApi -> 6736:com.google.android.gms.persistent/u0a9
+      act=com.google.android.gms.trustlet.place.service.BIND pkg=com.google.android.gms -> 6736:com.google.android.gms.persistent/u0a9
+      act=com.google.android.gms.trustlet.face.service.BIND pkg=com.google.android.gms -> 6736:com.google.android.gms.persistent/u0a9
+      act=com.google.android.gms.trustlet.bluetooth.service.BIND pkg=com.google.android.gms -> 6736:com.google.android.gms.persistent/u0a9
+  * ServiceRecord{3f33001f u0 com.oppo.exserviceui/.ColorAppServicesManagerClient}
+    app=ProcessRecord{1a6d5552 15112:com.oppo.exserviceui/1000}
+    created=-22h49m20s909ms started=false connections=1
+    Connections:
+       -> 1762:com.coloros.appmanager/1000
+  * ServiceRecord{3f4c1b57 u0 com.coloros.oppomorningsystem/.OppoAutoClearService}
+    app=ProcessRecord{10e7749e 2499:com.coloros.oppomorningsystem/1000}
+    created=-10h32m54s286ms started=true connections=0
+  * ServiceRecord{34fc50fc u0 com.coloros.appmanager/.PowerService}
+    app=ProcessRecord{169a71b5 1762:com.coloros.appmanager/1000}
+    created=-4d17h22m4s888ms started=true connections=0
+  * ServiceRecord{13b9cb8d u0 com.android.keyguard/.KeyguardService}
+    app=ProcessRecord{2b4da523 1086:com.android.keyguard/u0a13}
+    created=-4d17h22m7s505ms started=false connections=1
+    Connections:
+       -> 906:system/1000
+  * ServiceRecord{14efc313 u0 com.google.android.gms/com.google.android.location.fused.service.FusedProviderService}
+    app=ProcessRecord{31f794c0 6736:com.google.android.gms.persistent/u0a9}
+    created=-4d17h17m49s511ms started=false connections=1
+    Connections:
+      act=com.android.location.service.FusedProvider pkg=com.google.android.gms -> 906:system/1000
+  * ServiceRecord{304fd2e5 u0 com.google.android.gms/.usagereporting.service.UsageReportingService}
+    app=ProcessRecord{31f794c0 6736:com.google.android.gms.persistent/u0a9}
+    created=-3d17h19m31s573ms started=false connections=1
+    Connections:
+      act=com.google.android.gms.usagereporting.service.START pkg=com.google.android.gms -> 6736:com.google.android.gms.persistent/u0a9
+  * ServiceRecord{31da1768 u0 com.qualcomm.location/.GeoFenceService}
+    app=ProcessRecord{267f75c9 906:system/1000}
+    created=-4d17h22m5s790ms started=false connections=1
+    Connections:
+      pkg=com.qualcomm.location -> 906:system/1000
+  * ServiceRecord{14c9f611 u0 com.qualcomm.location/.nlp.NlpProxyService}
+    app=ProcessRecord{267f75c9 906:system/1000}
+    created=-4d17h22m2s933ms started=false connections=1
+    Connections:
+      act=com.android.location.service.v3.NetworkLocationProvider pkg=com.qualcomm.location -> 906:system/1000
+  * ServiceRecord{1e5eed u0 com.android.dialer/.ColorAppServicesManagerClient}
+    app=ProcessRecord{848fb7f 2822:com.android.dialer/u0a6}
+    created=-6m8s362ms started=false connections=1
+    Connections:
+       -> 1762:com.coloros.appmanager/1000
+  * ServiceRecord{38d6400e u0 com.oppo.trafficmonitor/.ColorAppServicesManagerClient}
+    app=ProcessRecord{332e434 2784:android.process.TrafficMonitor/1000}
+    created=-6m9s68ms started=false connections=1
+    Connections:
+       -> 1762:com.coloros.appmanager/1000
+  * ServiceRecord{2137ff08 u0 com.oppo.weather/.ex.location.LocationService}
+    app=ProcessRecord{38c45e90 30884:com.oppo.weather/u0a92}
+    created=-4d17h19m45s939ms started=true connections=0
+  * ServiceRecord{6edf74c u0 com.android.bluetooth/.a2dp.A2dpService}
+    app=null
+    created=-4d17h22m6s91ms started=false connections=2
+    Connections:
+      act=android.bluetooth.IBluetoothA2dp -> 13935:com.android.systemui/1000
+      act=android.bluetooth.IBluetoothA2dp -> 906:system/1000
+  * ServiceRecord{27887c96 u0 com.nearme.sync/.services.AutoSyncService}
+    app=ProcessRecord{279032b8 3391:com.nearme.sync/u0a74}
+    created=-1m18s849ms started=true connections=0
+  * ServiceRecord{218ce9bd u0 com.qualcomm.qcrilmsgtunnel/.QcrilMsgTunnelService}
+    app=ProcessRecord{573a395 2733:com.qualcomm.qcrilmsgtunnel/1001}
+    created=-4d17h21m3s946ms started=true connections=0
+  * ServiceRecord{812084e u0 com.google.android.gms/com.google.android.location.geofencer.service.GeofenceProviderService}
+    app=ProcessRecord{31f794c0 6736:com.google.android.gms.persistent/u0a9}
+    created=-4d17h17m49s501ms started=false connections=1
+    Connections:
+      act=com.android.location.service.GeofenceProvider pkg=com.google.android.gms -> 906:system/1000
+  * ServiceRecord{2351619c u0 com.coloros.oppoguardelf/.BackgroundMemClearService}
+    app=ProcessRecord{a03b2d9 1942:com.coloros.oppoguardelf/1000}
+    created=-4d17h19m20s682ms started=true connections=0
+  * ServiceRecord{23919f4a u0 com.google.android.gms/.thunderbird.EmergencyPersistentService}
+    app=ProcessRecord{31f794c0 6736:com.google.android.gms.persistent/u0a9}
+    created=-4d17h19m47s683ms started=true connections=0
+  * ServiceRecord{6b76214 u0 com.oppo.recents/.RecentsService}
+    app=ProcessRecord{258a72d6 26874:com.oppo.recents/1000}
+    created=-2d0h8m40s927ms started=false connections=92
+    Connections:
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+       -> 13935:com.android.systemui/1000
+  * ServiceRecord{7632208 u0 com.android.systemui/.SystemUIService}
+    app=ProcessRecord{312e251 13935:com.android.systemui/1000}
+    created=-4d17h22m7s152ms started=true connections=0
+  * ServiceRecord{22821d13 u0 com.oppo.gesture/.server.ScreenOffGestureService}
+    app=ProcessRecord{593f5f2 1251:com.oppo.gesture/1000}
+    created=-4d17h22m6s756ms started=true connections=0
+  * ServiceRecord{e0fe557 u0 android/.hardware.location.GeofenceHardwareService}
+    app=ProcessRecord{267f75c9 906:system/1000}
+    created=-4d17h22m5s592ms started=false connections=1
+    Connections:
+       -> 906:system/1000
+  * ServiceRecord{1920f23c u0 com.emoji.keyboard.touchpal/com.cootek.smartinput5.presentations.BindService}
+    app=ProcessRecord{372de43f 10182:com.emoji.keyboard.touchpal/u0a115}
+    created=-4d17h19m38s409ms started=true connections=0
+  * ServiceRecord{2b20c83c u0 com.oppo.trafficmonitor/.service.TrafficTMService}
+    app=ProcessRecord{332e434 2784:android.process.TrafficMonitor/1000}
+    created=-6m8s573ms started=true connections=0
+  * ServiceRecord{1721b0f1 u0 com.google.android.gms/.chimera.PersistentDirectBootAwareApiService}
+    app=ProcessRecord{31f794c0 6736:com.google.android.gms.persistent/u0a9}
+    created=-3d17h19m32s179ms started=false connections=1
+    Connections:
+      act=com.google.android.gms.clearcut.service.START -> 6736:com.google.android.gms.persistent/u0a9
+  * ServiceRecord{b023f28 u0 com.qualcomm.location/.LBSSystemMonitorService}
+    app=ProcessRecord{267f75c9 906:system/1000}
+    created=-4d17h22m3s722ms started=true connections=0
+  * ServiceRecord{db0061f u0 com.google.android.gms/.auth.trustagent.GoogleTrustAgent}
+    app=ProcessRecord{31f794c0 6736:com.google.android.gms.persistent/u0a9}
+    created=-8h23m30s337ms started=false connections=1
+    Connections:
+       -> 906:system/1000
+  * ServiceRecord{2bde9d32 u0 com.google.android.gms/com.google.android.location.internal.PendingIntentCallbackService}
+    app=ProcessRecord{31f794c0 6736:com.google.android.gms.persistent/u0a9}
+    created=-4d7h40m8s752ms started=true connections=0
+  * ServiceRecord{25743e44 u0 com.google.android.gms/com.google.android.location.reporting.service.ReportingAndroidService}
+    app=ProcessRecord{31f794c0 6736:com.google.android.gms.persistent/u0a9}
+    created=-3d17h19m31s601ms started=false connections=1
+    Connections:
+      act=com.google.android.gms.location.reporting.service.START pkg=com.google.android.gms -> 6736:com.google.android.gms.persistent/u0a9
+  * ServiceRecord{31d6e323 u0 com.android.server.telecom/.BluetoothPhoneService}
+    app=ProcessRecord{267f75c9 906:system/1000}
+    created=-4d17h22m4s232ms started=true connections=0
+  * ServiceRecord{d77b855 u0 com.oppo.exserviceui/.OppoDragWindowService}
+    app=ProcessRecord{1a6d5552 15112:com.oppo.exserviceui/1000}
+    created=-4d17h22m3s798ms started=true connections=0
+  * ServiceRecord{2e56670c u0 com.oppo.exserviceui/.OppoStartCameraService}
+    app=ProcessRecord{1a6d5552 15112:com.oppo.exserviceui/1000}
+    created=-4d17h22m3s816ms started=true connections=0
+  * ServiceRecord{295431d4 u0 com.google.android.gms/com.google.android.location.internal.server.GoogleLocationService}
+    app=ProcessRecord{31f794c0 6736:com.google.android.gms.persistent/u0a9}
+    created=-4d17h21m45s97ms started=true connections=0
+  * ServiceRecord{3ef61c5d u0 com.google.android.gms/com.google.android.contextmanager.service.ContextManagerService}
+    app=ProcessRecord{31f794c0 6736:com.google.android.gms.persistent/u0a9}
+    created=-4d17h20m56s492ms started=true connections=0
+  * ServiceRecord{3c0b66a0 u0 com.google.android.gms/com.google.android.location.network.NetworkLocationService}
+    app=ProcessRecord{31f794c0 6736:com.google.android.gms.persistent/u0a9}
+    created=-4d17h18m45s921ms started=false connections=1
+    Connections:
+      act=com.android.location.service.v3.NetworkLocationProvider pkg=com.google.android.gms -> 906:system/1000
+  * ServiceRecord{27da683c u0 com.android.stk/.StkAppService}
+    app=ProcessRecord{3b96a059 9218:com.android.phone/1001}
+    created=-4d17h16m24s317ms started=true connections=0
+  * ServiceRecord{1613f497 u0 com.google.android.gms/com.google.android.location.internal.GoogleLocationManagerService}
+    app=ProcessRecord{31f794c0 6736:com.google.android.gms.persistent/u0a9}
+    created=-4d17h21m46s999ms started=true connections=1
+    Connections:
+      act=com.google.android.location.internal.GoogleLocationManagerService.START pkg=com.google.android.gms -> 6736:com.google.android.gms.persistent/u0a9
+  * ServiceRecord{150931f2 u0 com.android.providers.media/.MtpService}
+    app=ProcessRecord{1793f02e 19865:android.process.media/u0a7}
+    created=-21m46s588ms started=true connections=1
+    Connections:
+       -> 19865:android.process.media/u0a7
+  * ServiceRecord{16cb3a13 u0 com.qualcomm.location/.ulp.UlpService}
+    app=ProcessRecord{267f75c9 906:system/1000}
+    created=-4d17h22m2s927ms started=false connections=1
+    Connections:
+      act=com.android.location.service.FusedLocationProvider pkg=com.qualcomm.location -> 906:system/1000
+  * ServiceRecord{30502c28 u0 com.oppo.trafficmonitor/.service.DataUsageService}
+    app=ProcessRecord{332e434 2784:android.process.TrafficMonitor/1000}
+    created=-6m8s551ms started=true connections=0
+  * ServiceRecord{3bc61d5d u0 com.oppo.gestureservice/.OppoGestureEngineService}
+    app=ProcessRecord{28523caa 1743:com.oppo.gestureservice/u0a85}
+    created=-4d17h22m5s17ms started=true connections=0
+  * ServiceRecord{39de5956 u0 com.google.android.googlequicksearchbox/com.google.android.voiceinteraction.GsaVoiceInteractionService}
+    app=ProcessRecord{2d3ebff2 1594:com.google.android.googlequicksearchbox:interactor/u0a23}
+    created=-4d17h22m6s0ms started=false connections=1
+    Connections:
+      act=android.service.voice.VoiceInteractionService -> 906:system/1000
+  * ServiceRecord{2678ee5e u0 com.oppo.exserviceui/.OppoControlVolumeService}
+    app=ProcessRecord{1a6d5552 15112:com.oppo.exserviceui/1000}
+    created=-4d17h22m3s835ms started=true connections=0
+  * ServiceRecord{3aae3659 u0 com.android.smspush/.WapPushManager}
+    app=ProcessRecord{e61a7ff 2151:com.android.smspush/u0a121}
+    created=-4d17h17m5s338ms started=false connections=4
+    Connections:
+      act=com.android.internal.telephony.IWapPushManager -> 9218:com.android.phone/1001
+      act=com.android.internal.telephony.IWapPushManager -> 9218:com.android.phone/1001
+      act=com.android.internal.telephony.IWapPushManager -> 9218:com.android.phone/1001
+      act=com.android.internal.telephony.IWapPushManager -> 9218:com.android.phone/1001
+  * ServiceRecord{10d885b7 u0 com.coloros.oppoguardelf/.CpuTempMonitorService}
+    app=ProcessRecord{a03b2d9 1942:com.coloros.oppoguardelf/1000}
+    created=-9m49s286ms started=true connections=0
+  * ServiceRecord{22a7ea68 u0 com.oppo.gesture/.ColorAppServicesManagerClient}
+    app=ProcessRecord{593f5f2 1251:com.oppo.gesture/1000}
+    created=-4d17h22m4s59ms started=false connections=1
+    Connections:
+       -> 1762:com.coloros.appmanager/1000
+  * ServiceRecord{3cc70afc u0 android/com.android.internal.backup.LocalTransportService}
+    app=ProcessRecord{267f75c9 906:system/1000}
+    created=-4d17h22m7s520ms started=false connections=1
+    Connections:
+      act=android.backup.TRANSPORT_HOST -> 906:system/1000
+  * ServiceRecord{27221df3 u0 com.google.android.gms/.lockbox.service.LockboxBrokerService}
+    app=ProcessRecord{31f794c0 6736:com.google.android.gms.persistent/u0a9}
+    created=-3d17h19m31s587ms started=false connections=1
+    Connections:
+      act=com.google.android.gms.lockbox.service.START pkg=com.google.android.gms -> 6736:com.google.android.gms.persistent/u0a9
+  * ServiceRecord{3808528e u0 com.oppo.usbselection/.UsbService}
+    app=ProcessRecord{efbd09b 2677:com.oppo.usbselection/1000}
+    created=-21m46s703ms started=true connections=0
+  * ServiceRecord{7e3807c u0 com.google.android.gms/.common.stats.GmsCoreStatsService}
+    app=ProcessRecord{31f794c0 6736:com.google.android.gms.persistent/u0a9}
+    created=-4d17h20m21s959ms started=true connections=0
+  * ServiceRecord{19ed4150 u0 com.coloros.oppoguardelf/.ColorAppServicesManagerClient}
+    app=ProcessRecord{a03b2d9 1942:com.coloros.oppoguardelf/1000}
+    created=-4d17h22m4s225ms started=false connections=1
+    Connections:
+       -> 1762:com.coloros.appmanager/1000
+  * ServiceRecord{3b8b5c01 u0 com.google.android.gms/.auth.account.authenticator.GoogleAccountAuthenticatorService}
+    app=ProcessRecord{31f794c0 6736:com.google.android.gms.persistent/u0a9}
+    created=-4d17h19m10s53ms started=false connections=2
+    Connections:
+      act=android.accounts.AccountAuthenticator -> 906:system/1000
+      act=android.accounts.AccountAuthenticator -> 906:system/1000
+  * ServiceRecord{334bbdae u0 com.coloros.oppoguardelf/.OppoGuardElfService}
+    app=ProcessRecord{a03b2d9 1942:com.coloros.oppoguardelf/1000}
+    created=-4d17h22m3s885ms started=true connections=0
+  * ServiceRecord{790fd40 u0 com.oppo.screenlock.pictorial/com.oppo.autoupdated.AutoUpdatedManager$MonitorService}
+    app=ProcessRecord{220c4fe 1321:com.oppo.screenlock.pictorial/u0a87}
+    created=-4d17h21m31s994ms started=true connections=0
+  * ServiceRecord{225dbc3c u0 com.oppo.secure/.ColorAppServicesManagerClient}
+    app=ProcessRecord{20803539 32612:android.process.safer/1000}
+    created=-19h39m28s368ms started=false connections=1
+    Connections:
+       -> 1762:com.coloros.appmanager/1000
+  * ServiceRecord{6f80d4d u0 com.oppo.weather/.external.ExternalWeatherWidgetService}
+    app=ProcessRecord{38c45e90 30884:com.oppo.weather/u0a92}
+    created=-8m22s530ms started=false connections=1
+    Connections:
+      act=com.oppo.weather.external.ExternalWeatherWidgetService -> 1919:com.oppo.launcher/u0a66
+      act=com.oppo.weather.external.ExternalWeatherWidgetService -> 1919:com.oppo.launcher/u0a66
+      act=com.oppo.weather.external.ExternalWeatherWidgetService -> 1919:com.oppo.launcher/u0a66
+  * ServiceRecord{da93c38 u0 com.android.bluetooth/.map.BluetoothMapService}
+    app=null
+    created=-4d17h22m5s856ms started=false connections=1
+    Connections:
+      act=android.bluetooth.IBluetoothMap -> 13935:com.android.systemui/1000
+  * ServiceRecord{173ce2c3 u0 com.android.mms.service/.MmsService}
+    app=ProcessRecord{3b96a059 9218:com.android.phone/1001}
+    created=-4d16h31m58s994ms started=false connections=1
+    Connections:
+       -> 906:system/1000
+  * ServiceRecord{1e9b9913 u0 com.android.phone/.TelephonyDebugService}
+    app=ProcessRecord{3b96a059 9218:com.android.phone/1001}
+    created=-4d17h22m0s598ms started=true connections=0
+  * ServiceRecord{320952d8 u0 com.android.server.telecom/.TelecomService}
+    app=ProcessRecord{267f75c9 906:system/1000}
+    created=-4d17h22m7s326ms started=false connections=1
+    Connections:
+      act=com.android.ITelecomService -> 906:system/1000
+  * ServiceRecord{bf2f2d u0 com.color.keyguard.notification/.KeyguardNotificationListener}
+    app=ProcessRecord{2b4da523 1086:com.android.keyguard/u0a13}
+    created=-9m41s541ms started=false connections=1
+    Connections:
+      act=android.service.notification.NotificationListenerService -> 906:system/1000
+  * ServiceRecord{2cb7e411 u0 com.android.bluetooth/.pan.PanService}
+    app=null
+    created=-4d17h22m5s854ms started=false connections=1
+    Connections:
+      act=android.bluetooth.IBluetoothPan -> 13935:com.android.systemui/1000
+  * ServiceRecord{2a2d47cc u0 com.google.android.gms/.backup.BackupTransportService}
+    app=ProcessRecord{31f794c0 6736:com.google.android.gms.persistent/u0a9}
+    created=-4d17h17m40s39ms started=false connections=1
+    Connections:
+      act=android.backup.TRANSPORT_HOST -> 906:system/1000
+  * ServiceRecord{1d396e6 u0 com.oppo.secure/.AppProtectService}
+    app=ProcessRecord{20803539 32612:android.process.safer/1000}
+    created=-19h39m27s949ms started=true connections=0
+
+ACTIVITY MANAGER RECENT TASKS (dumpsys activity recents)
+  Recent tasks:
+  * Recent #0: TaskRecord{7ef7976 #789 A=com.oppo.launcher U=0 sz=1}
+  * Recent #1: TaskRecord{3f3cdb77 #1135 A=com.serviceapp.services U=0 sz=0}
+  * Recent #2: TaskRecord{2cd1e3e4 #1133 A=com.android.systemui U=0 sz=0}
+  * Recent #3: TaskRecord{2f25b04d #1132 A=com.whatsapp U=0 sz=0}
+  * Recent #4: TaskRecord{3751b702 #1113 A=android.task.mms U=0 sz=1}
+  * Recent #5: TaskRecord{119b813 #1112 A=com.oppo.secure U=0 sz=0}
+  * Recent #6: TaskRecord{3fbb5a50 #1052 A=com.facebook.katana U=0 sz=1}
+  * Recent #7: TaskRecord{222a0449 #1097 I=android/com.android.internal.app.ResolverActivity U=0 sz=0}
+  * Recent #8: TaskRecord{32a8414e #1090 I=android/com.android.internal.app.ResolverActivity U=0 sz=0}
+  * Recent #9: TaskRecord{25ddc26f #1082 I=android/com.android.internal.app.ResolverActivity U=0 sz=0}
+  * Recent #10: TaskRecord{183cb7c #1076 I=android/com.android.internal.app.ResolverActivity U=0 sz=0}
+  * Recent #11: TaskRecord{2b059c05 #1072 A=com.android.incallui U=0 sz=0}
+  * Recent #12: TaskRecord{37cb245a #1059 A=com.android.oppomms U=0 sz=0}
+  * Recent #13: TaskRecord{1e2e168b #1017 I=com.oppo.alarmclock/.alarmclock.AlarmAlertFullScreen U=0 sz=0}
+  * Recent #14: TaskRecord{1f002368 #977 A=com.whatsapp:voip U=0 sz=0}
+  * Recent #15: TaskRecord{848f381 #967 I=com.whatsapp/.notification.PopupNotification U=0 sz=0}
+  * Recent #16: TaskRecord{18072c26 #810 A=com.android.server.telecom U=0 sz=0}
+  * Recent #17: TaskRecord{35e59067 #776 I=com.oppo.alarmclock/.alarmclock.AlarmDialogAlert U=0 sz=0}
+  * Recent #18: TaskRecord{3b680e14 #715 A=com.oppo.mms.activity.OppoUnReadMessageDialogActivity U=0 sz=0}
+  * Recent #19: TaskRecord{371046bd #654 I=com.android.vending/com.google.android.finsky.verifier.impl.PackageWarningDialog U=0 sz=0}
+  * Recent #20: TaskRecord{1aa9e4b2 #649 I=android/com.android.internal.app.ResolverActivity U=0 sz=0}
+  * Recent #21: TaskRecord{31b0cc03 #633 I=android/com.android.internal.app.ResolverActivity U=0 sz=0}
+  * Recent #22: TaskRecord{13c1f780 #594 I=android/com.android.internal.app.ResolverActivity U=0 sz=0}
+  * Recent #23: TaskRecord{2fff91b9 #521 I=com.android.calendar/.oppo.alerts.OppoAlertActivityFullScreen U=0 sz=0}
+  * Recent #24: TaskRecord{3c4d99fe #343 I=android/com.android.internal.app.ResolverActivity U=0 sz=0}
+  * Recent #25: TaskRecord{2a6a255f #332 I=android/com.android.internal.app.ResolverActivity U=0 sz=0}
+  * Recent #26: TaskRecord{2d0f0bac #302 I=android/com.android.internal.app.ResolverActivity U=0 sz=0}
+  * Recent #27: TaskRecord{37fe9075 #113 I=android/com.android.internal.app.ResolverActivity U=0 sz=0}
+  * Recent #28: TaskRecord{16e5580a #107 I=android/com.android.internal.app.ResolverActivity U=0 sz=0}
+  * Recent #29: TaskRecord{235b87b #102 I=android/com.android.internal.app.ResolverActivity U=0 sz=0}
+  * Recent #30: TaskRecord{39373698 #50 I=com.android.settings/.Settings$WifiSettingsActivity U=0 sz=0}
+  * Recent #31: TaskRecord{b4bef1 #47 A=com.android.phone U=0 sz=0}
+
+ACTIVITY MANAGER ACTIVITIES (dumpsys activity activities)
+Display #0 (activities from top to bottom):
+  Stack #0:
+    Task id #789
+      TaskRecord{7ef7976 #789 A=com.oppo.launcher U=0 sz=1}
+      Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10000000 cmp=com.oppo.launcher/.Launcher }
+        Hist #0: ActivityRecord{2436dde3 u0 com.oppo.launcher/.Launcher t789}
+          Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10000000 cmp=com.oppo.launcher/.Launcher }
+          ProcessRecord{115f8276 1919:com.oppo.launcher/u0a66}
+
+    Running activities (most recent first):
+      TaskRecord{7ef7976 #789 A=com.oppo.launcher U=0 sz=1}
+        Run #0: ActivityRecord{2436dde3 u0 com.oppo.launcher/.Launcher t789}
+
+    mResumedActivity: ActivityRecord{2436dde3 u0 com.oppo.launcher/.Launcher t789}
+
+  Stack #1:
+    Task id #1052
+      TaskRecord{3fbb5a50 #1052 A=com.facebook.katana U=0 sz=1}
+      Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.facebook.katana/.activity.FbMainTabActivity }
+        Hist #0: ActivityRecord{e7e6718 u0 com.facebook.katana/.LoginActivity t1052}
+          Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.facebook.katana/.LoginActivity bnds=[17,44][143,191] }
+
+    Task id #1113
+      TaskRecord{3751b702 #1113 A=android.task.mms U=0 sz=1}
+      Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.android.mms/.ui.ConversationList }
+        Hist #0: ActivityRecord{7ef278c u0 com.android.mms/.ui.ConversationList t1113}
+          Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.android.mms/.ui.ConversationList bnds=[144,827][270,951] }
+
+  mFocusedActivity: ActivityRecord{2436dde3 u0 com.oppo.launcher/.Launcher t789}
+  mFocusedStack=ActivityStack{3e88ead6 stackId=0, 1 tasks} mLastFocusedStack=ActivityStack{3e88ead6 stackId=0, 1 tasks}
+  mSleepTimeout=false
+  mCurTaskId=1135
+  mUserStackInFront={}
+  mActivityContainers={0=ActivtyContainer{0}A, 1=ActivtyContainer{1}A}
+
+ACTIVITY MANAGER RUNNING PROCESSES (dumpsys activity processes)
+  Isolated process list (sorted by uid):
+    Isolated # 0: ProcessRecord{f5d6157 1215:WebViewLoader-armeabi-v7a/1037}
+
+  Process LRU list (sorted by oom_adj, 46 total, non-act at 3, non-svc at 3):
+    PERS #45: pers  F/ /P  trm: 5 906:system/1000 (fixed)
+    PERS #44: pers  F/ /P  trm: 5 1086:com.android.keyguard/u0a13 (fixed)
+    PERS #43: pers  F/ /P  trm: 5 13935:com.android.systemui/1000 (fixed)
+    PERS #41: pers  F/ /P  trm: 5 1688:com.quicinc.cne.CNEService/1000 (fixed)
+    PERS #40: pers  F/ /P  trm: 5 1708:com.oppo.service.account/u0a117 (fixed)
+    PERS #39: pers  F/ /P  trm: 5 9218:com.android.phone/1001 (fixed)
+    PERS #38: pers  F/ /P  trm: 5 1743:com.oppo.gestureservice/u0a85 (fixed)
+    PERS #37: pers  F/ /P  trm: 5 1762:com.coloros.appmanager/1000 (fixed)
+    Proc #33: fore  F/ /IF trm: 5 1251:com.oppo.gesture/1000 (provider)
+        com.oppo.gesture/.provider.ActionContentProvider<=Proc{1762:com.coloros.appmanager/1000}
+    Proc #17: fore  F/ /IF trm: 5 32612:android.process.safer/1000 (provider)
+        com.oppo.secure/.PrivacyProtectProvider<=Proc{13935:com.android.systemui/1000}
+    Proc #15: fore  F/ /IF trm: 5 9009:com.oppo.notification.center/1000 (provider)
+        com.oppo.notification.center/.PowerProvider<=Proc{13935:com.android.systemui/1000}
+    Proc # 5: fore  F/ /IF trm: 5 1231:com.nearme.romupdate/1000 (provider)
+        com.nearme.romupdate/.provider.db.RomUpdateContentProvider<=Proc{906:system/1000}
+    Proc # 0: fore  F/A/T  trm: 5 1919:com.oppo.launcher/u0a66 (top-activity)
+    Proc #42: vis   F/ /IF trm: 5 1594:com.google.android.googlequicksearchbox:interactor/u0a23 (service)
+        com.google.android.googlequicksearchbox/com.google.android.voiceinteraction.GsaVoiceInteractionService<=Proc{906:system/1000}
+    Proc #36: vis   F/ /IF trm: 5 2151:com.android.smspush/u0a121 (service)
+        com.android.smspush/.WapPushManager<=Proc{9218:com.android.phone/1001}
+    Proc #35: vis   F/ /IF trm: 5 26874:com.oppo.recents/1000 (service)
+        com.oppo.recents/.RecentsService<=Proc{13935:com.android.systemui/1000}
+    Proc #34: vis   F/ /IF trm: 5 15112:com.oppo.exserviceui/1000 (service)
+        com.oppo.exserviceui/.ColorAppServicesManagerClient<=Proc{1762:com.coloros.appmanager/1000}
+    Proc #32: vis   F/ /IF trm: 5 1942:com.coloros.oppoguardelf/1000 (service)
+        com.coloros.oppoguardelf/.ColorAppServicesManagerClient<=Proc{1762:com.coloros.appmanager/1000}
+    Proc #31: vis   F/ /IF trm: 5 7793:com.oppo.applock.provider/1000 (provider)
+        com.oppo.recents/.provider.AppLockContentProvider<=Proc{1942:com.coloros.oppoguardelf/1000}
+    Proc #30: vis   F/ /IF trm: 5 1321:com.oppo.screenlock.pictorial/u0a87 (service)
+        com.oppo.screenlock.pictorial/com.pictorial.handler.aidl.PictorialManagerService<=Proc{1086:com.android.keyguard/u0a13}
+    Proc #24: vis   F/ /IF trm: 5 2822:com.android.dialer/u0a6 (service)
+        com.android.dialer/.ColorAppServicesManagerClient<=Proc{1762:com.coloros.appmanager/1000}
+    Proc # 4: vis   F/ /IF trm: 5 2784:android.process.TrafficMonitor/1000 (service)
+        com.oppo.trafficmonitor/.ColorAppServicesManagerClient<=Proc{1762:com.coloros.appmanager/1000}
+    Proc # 3: vis   F/ /IF trm: 5 6736:com.google.android.gms.persistent/u0a9 (service)
+        com.google.android.gms/com.google.android.location.geofencer.service.GeofenceProviderService<=Proc{906:system/1000}
+    Proc # 2: vis   F/ /IF trm: 5 30884:com.oppo.weather/u0a92 (service)
+        com.oppo.weather/.external.ExternalWeatherWidgetService<=Proc{1919:com.oppo.launcher/u0a66}
+    Proc #29: prcp  F/S/IF trm: 5 19865:android.process.media/u0a7 (fg-service)
+    Proc # 1: prcp  B/ /IB trm: 5 10182:com.emoji.keyboard.touchpal/u0a115 (service)
+        com.emoji.keyboard.touchpal/com.cootek.smartinput5.TouchPalIME<=Proc{906:system/1000}
+    Proc #13: svc   B/ /S  trm: 0 2265:com.facebook.katana/u0a133 (started-services)
+    Proc #12: svc   B/ /S  trm: 5 3391:com.nearme.sync/u0a74 (started-services)
+    Proc # 7: svc   B/ /S  trm: 0 3415:com.whatsapp/u0a164 (started-services)
+    Proc # 6: svc   B/ /S  trm: 5 30385:com.google.android.gms/u0a9 (service)
+        com.google.android.gms/.measurement.service.MeasurementBrokerService<=Proc{3415:com.whatsapp/u0a164}
+    Proc #28: svcb  B/ /S  trm: 5 2499:com.coloros.oppomorningsystem/1000 (started-services)
+    Proc #27: svcb  B/ /S  trm: 5 2624:com.oppo.wifidirect/u0a124 (started-services)
+    Proc #26: svcb  B/ /S  trm: 5 2677:com.oppo.usbselection/1000 (started-services)
+    Proc #25: svcb  B/ /S  trm: 5 2733:com.qualcomm.qcrilmsgtunnel/1001 (started-services)
+    Proc #23: svcb  B/ /S  trm: 5 2841:com.oppo.alarmclock/u0a41 (started-services)
+    Proc #22: svcb  B/ /S  trm: 5 3164:com.oppo.newsimdetect/1000 (started-services)
+    Proc # 9: cch   B/ /CE trm:80 3440:com.google.android.apps.photos/u0a101 (cch-empty)
+    Proc # 8: cch   B/ /CE trm:80 3184:android.process.acore/u0a4 (cch-empty)
+    Proc #11: cch+2 B/ /CE trm:60 3480:com.google.process.gapps/u0a9 (cch-empty)
+    Proc #10: cch+2 B/ /CE trm:80 3140:com.android.defcontainer/u0a5 (cch-empty)
+    Proc #16: cch+4 B/ /CE trm:60 3323:com.google.android.partnersetup/u0a12 (cch-empty)
+    Proc #14: cch+4 B/ /CE trm:60 3281:com.google.android.googlequicksearchbox:search/u0a23 (cch-empty)
+    Proc #21: cch+6 B/ /CE trm:40 3222:com.oppo.purebackground/1000 (cch-empty)
+    Proc #20: cch+6 B/ /CE trm:40 3368:android.process.contacts/u0a4 (cch-empty)
+    Proc #19: cch+6 B/ /CE trm:40 3343:com.oppo.ota/u0a78 (cch-empty)
+    Proc #18: cch+6 B/ /CE trm:40 3241:android.process.safer.ui/1000 (cch-empty)
+
+  Processes that are waiting to GC:
+    Process ProcessRecord{169a71b5 1762:com.coloros.appmanager/1000}
+      lowMem=true, last gced=222535436 ms ago, last lowMem=510243 ms ago
+    Process ProcessRecord{e61a7ff 2151:com.android.smspush/u0a121}
+      lowMem=true, last gced=222535436 ms ago, last lowMem=510243 ms ago
+    Process ProcessRecord{258a72d6 26874:com.oppo.recents/1000}
+      lowMem=true, last gced=222535436 ms ago, last lowMem=510243 ms ago
+    Process ProcessRecord{1a6d5552 15112:com.oppo.exserviceui/1000}
+      lowMem=true, last gced=222535436 ms ago, last lowMem=510243 ms ago
+    Process ProcessRecord{593f5f2 1251:com.oppo.gesture/1000}
+      lowMem=true, last gced=222535436 ms ago, last lowMem=510243 ms ago
+    Process ProcessRecord{1e85f70b 9009:com.oppo.notification.center/1000}
+      lowMem=true, last gced=222535436 ms ago, last lowMem=510243 ms ago
+    Process ProcessRecord{20803539 32612:android.process.safer/1000}
+      lowMem=true, last gced=222535436 ms ago, last lowMem=510243 ms ago
+    Process ProcessRecord{a03b2d9 1942:com.coloros.oppoguardelf/1000}
+      lowMem=true, last gced=222535436 ms ago, last lowMem=510243 ms ago
+    Process ProcessRecord{1841a245 7793:com.oppo.applock.provider/1000}
+      lowMem=true, last gced=222535436 ms ago, last lowMem=510243 ms ago
+    Process ProcessRecord{220c4fe 1321:com.oppo.screenlock.pictorial/u0a87}
+      lowMem=true, last gced=222535436 ms ago, last lowMem=510243 ms ago
+    Process ProcessRecord{1793f02e 19865:android.process.media/u0a7}
+      lowMem=true, last gced=222535436 ms ago, last lowMem=510243 ms ago
+    Process ProcessRecord{1a627324 1231:com.nearme.romupdate/1000}
+      lowMem=true, last gced=222535436 ms ago, last lowMem=510243 ms ago
+    Process ProcessRecord{31f794c0 6736:com.google.android.gms.persistent/u0a9}
+      lowMem=true, last gced=222535436 ms ago, last lowMem=510243 ms ago
+    Process ProcessRecord{176dfba2 30385:com.google.android.gms/u0a9}
+      lowMem=true, last gced=222535436 ms ago, last lowMem=510243 ms ago
+    Process ProcessRecord{372de43f 10182:com.emoji.keyboard.touchpal/u0a115}
+      lowMem=true, last gced=222535436 ms ago, last lowMem=510243 ms ago
+    Process ProcessRecord{38c45e90 30884:com.oppo.weather/u0a92}
+      lowMem=true, last gced=2885809 ms ago, last lowMem=510243 ms ago
+
+  Time since processes crashed:
+    Process com.serviceapp.services uid 10175: last crashed +1m8s651ms ago
+    Process com.android.phone uid 1001: last crashed +2d13h43m30s611ms ago
+
+  mStartedUsers:
+    User #0: mState=RUNNING
+  mStartedUserArray: [0]
+  mUserLru: [0]
+  mHomeProcess: ProcessRecord{115f8276 1919:com.oppo.launcher/u0a66}
+  mConfiguration: {1.0 404mcc95mnc en_US ?layoutDir sw360dp w360dp h614dp 240dpi nrml long port finger -keyb/v/h -nav/h s.228mThemeChanged = 0mThemeChangedFlags = 0mFlipFont = 0}
+  mWakefulness=Awake
+  mSleeping=false mLockScreenShown=LOCK_SCREEN_HIDDEN
+  mShuttingDown=false mRunningVoice=false mTestPssMode=false
+  mAlwaysFinishActivities=false mController=android.app.IActivityController$Stub$Proxy@1eb52444

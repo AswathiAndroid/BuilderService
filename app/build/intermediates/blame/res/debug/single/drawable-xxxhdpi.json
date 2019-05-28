@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\android\\Services1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_control_point_black_24dp.png",
+        "source": "D:\\android\\Services1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_control_point_black_24dp.png"
+    },
+    {
+        "merged": "D:\\android\\Services1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\emptystar.png",
+        "source": "D:\\android\\Services1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\emptystar.png"
+    },
+    {
+        "merged": "D:\\android\\Services1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\add_complaint.png",
+        "source": "D:\\android\\Services1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\add_complaint.png"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\android\\Services1\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\home.png",
+        "source": "D:\\android\\Services1\\app\\src\\main\\res\\drawable-hdpi\\home.png"
+    },
+    {
+        "merged": "D:\\android\\Services1\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\logo_144.png",
+        "source": "D:\\android\\Services1\\app\\src\\main\\res\\drawable-hdpi\\logo_144.png"
+    },
+    {
+        "merged": "D:\\android\\Services1\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\android\\Services1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android\\Services1\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\white.png",
+        "source": "D:\\android\\Services1\\app\\src\\main\\res\\drawable-hdpi\\white.png"
+    },
+    {
+        "merged": "D:\\android\\Services1\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\notification.png",
+        "source": "D:\\android\\Services1\\app\\src\\main\\res\\drawable-hdpi\\notification.png"
+    },
+    {
+        "merged": "D:\\android\\Services1\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\add_complaint.png",
+        "source": "D:\\android\\Services1\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\add_complaint.png"
+    },
+    {
+        "merged": "D:\\android\\Services1\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\clock.png",
+        "source": "D:\\android\\Services1\\app\\src\\main\\res\\drawable-hdpi\\clock.png"
+    },
+    {
+        "merged": "D:\\android\\Services1\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_control_point_black_24dp.png",
+        "source": "D:\\android\\Services1\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_control_point_black_24dp.png"
+    },
+    {
+        "merged": "D:\\android\\Services1\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\emptystar.png",
+        "source": "D:\\android\\Services1\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\emptystar.png"
+    },
+    {
+        "merged": "D:\\android\\Services1\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\calender.png",
+        "source": "D:\\android\\Services1\\app\\src\\main\\res\\drawable-hdpi\\calender.png"
+    }
+]

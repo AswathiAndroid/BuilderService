@@ -1,0 +1,67 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	android:orientation="vertical"
+	android:gravity="center"
+	android:layout_gravity="center"
+	android:background="@drawable/bg_service">
+
+	<RelativeLayout
+		android:id="@+id/layout"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_gravity="center"
+		android:gravity="center"
+		android:orientation="vertical"
+		android:weightSum="1">
+
+
+		<LinearLayout
+			android:id="@+id/addButton"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_gravity="center"
+			android:gravity="center"
+			android:layout_marginLeft="20dp"
+			android:layout_marginRight="20dp"
+			android:layout_marginTop="20dp"
+			android:background="@drawable/transprnt_bg"
+			android:visibility="visible">
+
+			<TextView
+				android:id="@+id/button_text"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_centerInParent="true"
+				android:text="Add New Request"
+				android:textColor="#ffffff"
+				android:textSize="18dp"
+				android:textStyle="bold"
+				android:visibility="visible" />
+
+			<ImageView
+				android:id="@+id/imgclick"
+				android:layout_width="30dp"
+				android:layout_height="wrap_content"
+				android:layout_centerVertical="true"
+				android:layout_marginLeft="5dp"
+				android:layout_toRightOf="@id/button_text"
+				android:paddingBottom="10dip"
+				android:paddingTop="10dip"
+				android:src="@drawable/blueplus" />
+		</LinearLayout>
+		<ListView
+			android:padding="20dp"
+			android:id="@+id/listview"
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:scrollbars="vertical" />
+		<include
+			layout="@layout/floatingbutton"
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:layout_gravity="bottom|right"
+			/>
+	</RelativeLayout>
+</LinearLayout>

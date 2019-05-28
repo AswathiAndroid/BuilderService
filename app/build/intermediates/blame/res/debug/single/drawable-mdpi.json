@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "D:\\android\\Services1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_control_point_black_24dp.png",
+        "source": "D:\\android\\Services1\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_control_point_black_24dp.png"
+    },
+    {
+        "merged": "D:\\android\\Services1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\greentick.png",
+        "source": "D:\\android\\Services1\\app\\src\\main\\res\\drawable-mdpi\\greentick.png"
+    },
+    {
+        "merged": "D:\\android\\Services1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\detail4.png",
+        "source": "D:\\android\\Services1\\app\\src\\main\\res\\drawable-mdpi\\detail4.png"
+    },
+    {
+        "merged": "D:\\android\\Services1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\detail3.png",
+        "source": "D:\\android\\Services1\\app\\src\\main\\res\\drawable-mdpi\\detail3.png"
+    },
+    {
+        "merged": "D:\\android\\Services1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\processing.png",
+        "source": "D:\\android\\Services1\\app\\src\\main\\res\\drawable-mdpi\\processing.png"
+    },
+    {
+        "merged": "D:\\android\\Services1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\arrow_down.png",
+        "source": "D:\\android\\Services1\\app\\src\\main\\res\\drawable-mdpi\\arrow_down.png"
+    },
+    {
+        "merged": "D:\\android\\Services1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\detail1.png",
+        "source": "D:\\android\\Services1\\app\\src\\main\\res\\drawable-mdpi\\detail1.png"
+    },
+    {
+        "merged": "D:\\android\\Services1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\closeimg.png",
+        "source": "D:\\android\\Services1\\app\\src\\main\\res\\drawable-mdpi\\closeimg.png"
+    },
+    {
+        "merged": "D:\\android\\Services1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\add_complaint.png",
+        "source": "D:\\android\\Services1\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\add_complaint.png"
+    },
+    {
+        "merged": "D:\\android\\Services1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\add.png",
+        "source": "D:\\android\\Services1\\app\\src\\main\\res\\drawable-mdpi\\add.png"
+    },
+    {
+        "merged": "D:\\android\\Services1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\detail2.png",
+        "source": "D:\\android\\Services1\\app\\src\\main\\res\\drawable-mdpi\\detail2.png"
+    },
+    {
+        "merged": "D:\\android\\Services1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\emptystar.png",
+        "source": "D:\\android\\Services1\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\emptystar.png"
+    },
+    {
+        "merged": "D:\\android\\Services1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\android\\Services1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android\\Services1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\pending_green.png",
+        "source": "D:\\android\\Services1\\app\\src\\main\\res\\drawable-mdpi\\pending_green.png"
+    },
+    {
+        "merged": "D:\\android\\Services1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\close_blue.png",
+        "source": "D:\\android\\Services1\\app\\src\\main\\res\\drawable-mdpi\\close_blue.png"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\android\\Services1\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21\\ic_control_point_black_24dp.xml",
+        "source": "D:\\android\\Services1\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_control_point_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\android\\Services1\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a96776ffa5ee638dd966530838b8843888360574\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "D:\\android\\Services1\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a96776ffa5ee638dd966530838b8843888360574\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "D:\\android\\Services1\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21\\add_complaint.xml",
+        "source": "D:\\android\\Services1\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\add_complaint.xml"
+    },
+    {
+        "merged": "D:\\android\\Services1\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21\\emptystar.xml",
+        "source": "D:\\android\\Services1\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\emptystar.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\android\\Services1\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\add_complaint.png",
+        "source": "D:\\android\\Services1\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\add_complaint.png"
+    },
+    {
+        "merged": "D:\\android\\Services1\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\android\\Services1\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android\\Services1\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ic_control_point_black_24dp.png",
+        "source": "D:\\android\\Services1\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_control_point_black_24dp.png"
+    },
+    {
+        "merged": "D:\\android\\Services1\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\emptystar.png",
+        "source": "D:\\android\\Services1\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\emptystar.png"
+    }
+]

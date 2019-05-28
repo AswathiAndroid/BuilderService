@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\android\\Services1\\app\\build\\intermediates\\res\\merged\\release\\interpolator\\mtrl_fast_out_linear_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a96776ffa5ee638dd966530838b8843888360574\\output\\res\\interpolator\\mtrl_fast_out_linear_in.xml"
+    },
+    {
+        "merged": "D:\\android\\Services1\\app\\build\\intermediates\\res\\merged\\release\\interpolator\\mtrl_linear_out_slow_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a96776ffa5ee638dd966530838b8843888360574\\output\\res\\interpolator\\mtrl_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "D:\\android\\Services1\\app\\build\\intermediates\\res\\merged\\release\\interpolator\\mtrl_linear.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a96776ffa5ee638dd966530838b8843888360574\\output\\res\\interpolator\\mtrl_linear.xml"
+    },
+    {
+        "merged": "D:\\android\\Services1\\app\\build\\intermediates\\res\\merged\\release\\interpolator\\mtrl_fast_out_slow_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a96776ffa5ee638dd966530838b8843888360574\\output\\res\\interpolator\\mtrl_fast_out_slow_in.xml"
+    }
+]

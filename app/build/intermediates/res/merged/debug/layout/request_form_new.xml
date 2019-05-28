@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_gravity="center"
+    android:background="@drawable/bg_service">
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="20dp"
+    android:layout_gravity="center"
+    android:background="@drawable/bg_service"
+    android:id="@+id/scroll">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="20dp"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:descendantFocusability="beforeDescendants"
+        android:focusableInTouchMode="true"
+        android:background="@drawable/transprnt_bg">
+
+        <EditText
+            android:id="@+id/title"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:background="@android:color/transparent"
+            android:hint="Title"
+            android:singleLine="true"
+            android:textCursorDrawable="@drawable/white_cursor"
+            android:textColorHint="#A9A9A9"
+            android:textSize="12dp"
+            android:textColor="#fff"/>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.2dp"
+            android:layout_marginTop="6dp"
+            android:background="#1Affffff" />
+
+
+        <Spinner
+            android:id="@+id/serviceSpn"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="15dp"
+            android:popupTheme="@style/PopupMenu"
+            android:spinnerMode="dialog"
+            android:background="@drawable/spinner_bg" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.2dp"
+            android:layout_marginTop="5dp"
+            android:background="#1Affffff" />
+
+
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_marginTop="15dp">
+
+            <ImageView
+                android:id="@+id/dateImg"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_alignBottom="@+id/datee"
+                android:layout_alignTop="@+id/datee"
+                android:padding="5dp"
+                android:src="@drawable/date" />
+
+            <EditText
+                android:id="@+id/datee"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_toRightOf="@+id/dateImg"
+                android:background="@android:color/transparent"
+                android:cursorVisible="false"
+                android:hint="Available Date"
+                android:textColor="#fff"
+                android:singleLine="true"
+                android:textColorHint="#A9A9A9"
+                android:textSize="12dp"
+                android:focusable="false"
+                android:windowSoftInputMode="stateHidden" />
+
+
+        </RelativeLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.2dp"
+            android:layout_marginTop="5dp"
+            android:background="#1Affffff" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:weightSum="2"
+            android:layout_marginTop="15dp"
+            android:orientation="horizontal">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1">
+
+                <EditText
+                    android:id="@+id/time"
+                    android:layout_width="match_parent"
+                    android:layout_height="30dp"
+                    android:layout_alignParentTop="true"
+                    android:layout_toRightOf="@+id/timeImg"
+                    android:background="@android:color/transparent"
+                    android:cursorVisible="false"
+                    android:hint="03.00pm"
+                    android:textColor="#fff"
+                    android:singleLine="true"
+                    android:textColorHint="#A9A9A9"
+                    android:textSize="12dp"
+                    android:windowSoftInputMode="stateHidden"
+                    android:focusable="false"/>
+
+                <ImageView
+                    android:id="@+id/timeImg"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_alignTop="@+id/time"
+                    android:padding="5dp"
+                    android:src="@drawable/time" />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1">
+
+                <EditText
+                    android:id="@+id/timea"
+                    android:layout_width="match_parent"
+                    android:layout_height="30dp"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_toRightOf="@+id/timeImga"
+                    android:background="@android:color/transparent"
+                    android:cursorVisible="false"
+                    android:hint="06.00pm"
+                    android:singleLine="true"
+                    android:textColor="#fff"
+                    android:textColorHint="#A9A9A9"
+                    android:textSize="12dp"
+                    android:windowSoftInputMode="stateHidden"
+                    android:focusable="false"/>
+                <TextView
+                    android:id="@+id/timeImga"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_alignParentTop="true"
+                    android:padding="5dp"
+                    android:text="To"
+                    android:textColor="#D41031"
+                    android:textSize="15dp" />
+
+            </RelativeLayout>
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.2dp"
+            android:layout_marginTop="3dp"
+            android:background="#1Affffff" />
+
+        <!--
+    <EditText
+        android:id="@+id/availDateTime"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="@drawable/form_edittext"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="15dp"
+        android:padding="10dp"
+        android:inputType="textMultiLine"
+        android:gravity="top"
+        android:hint="Available Date and Time"/> -->
+
+        <EditText
+            android:id="@+id/servicePerson"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_marginTop="15dp"
+            android:background="@android:color/transparent"
+            android:hint="Suggested Service Person"
+            android:textColor="#fff"
+            android:textCursorDrawable="@drawable/white_cursor"
+            android:textColorHint="#A9A9A9"
+            android:singleLine="true"
+            android:textSize="12dp" />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.2dp"
+            android:layout_marginTop="7dp"
+            android:background="#1Affffff" />
+
+
+        <Spinner
+            android:id="@+id/requestType"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/spinner_bg"
+            android:paddingLeft="10dp"
+            android:popupTheme="@style/PopupMenu"
+            android:spinnerMode="dialog" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.2dp"
+            android:layout_marginTop="5dp"
+            android:background="#1Affffff" />
+
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_marginTop="15dp"
+            android:layout_weight="1">
+
+            <ImageView
+                android:id="@+id/mDateImg"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_alignBottom="@+id/mDate"
+                android:layout_alignTop="@+id/mDate"
+                android:padding="5dp"
+                android:src="@drawable/date" />
+
+            <EditText
+                android:id="@+id/mDate"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:background="@android:color/transparent"
+                android:cursorVisible="false"
+                android:hint="Milestone Date"
+                android:textColor="#fff"
+                android:textColorHint="#A9A9A9"
+                android:singleLine="true"
+                android:textSize="12dp"
+                android:layout_toRightOf="@+id/mDateImg"
+                android:windowSoftInputMode="stateHidden"
+                android:focusable="false"/>
+
+
+        </RelativeLayout>
+
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.2dp"
+            android:layout_marginTop="5dp"
+            android:background="#1Affffff" />
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp">
+
+            <EditText
+                android:id="@+id/description"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_toRightOf="@+id/disc"
+                android:background="@android:color/transparent"
+                android:textCursorDrawable="@drawable/white_cursor"
+                android:gravity="top"
+                android:hint="Description"
+                android:inputType="textMultiLine"
+                android:singleLine="false"
+                android:overScrollMode="always"
+                android:scrollbarStyle="insideInset"
+                android:scrollbars="vertical"
+                android:textColor="#fff"
+                android:textColorHint="#A9A9A9"
+                android:textSize="12dp"
+                android:isScrollContainer="true"
+                android:focusable="true"
+                android:clickable="true" />
+
+
+
+            <ImageView
+                android:id="@+id/disc"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_alignTop="@+id/description"
+                android:padding="5dp"
+                android:src="@drawable/detail4"
+                />
+
+        </RelativeLayout>
+
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.2dp"
+            android:layout_marginTop="5dp"
+            android:background="#1Affffff" />
+
+
+        <Button
+            android:id="@+id/submit"
+            android:layout_width="140dp"
+            android:layout_height="36dp"
+            android:layout_marginTop="35dp"
+            android:background="@drawable/submit_button"
+            android:gravity="center"
+            android:text="Submit"
+            android:textColor="#ffffff" />
+
+
+    </LinearLayout>
+</ScrollView>
+</LinearLayout>

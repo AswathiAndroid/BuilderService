@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+    <!-- Navigation -->
+
+
+    <item
+        android:id="@+id/home_main"
+        android:icon="@drawable/home"
+        app:showAsAction="always"
+        android:title="app_home" />
+
+</menu>
